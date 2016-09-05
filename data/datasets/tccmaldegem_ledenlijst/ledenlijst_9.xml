@@ -1,0 +1,534 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<html><head><title>Resultaten - Uitslagen Vlaamse Tafeltennisliga</title><script type="text/javascript" src="/js/jquery.js"/><link rel="stylesheet" type="text/css" href="/css/css.php?club_id=289&amp;default_club_id=289"/><link rel="stylesheet" type="text/css" href="/css/jquery.cluetip.css"/><link rel="stylesheet" type="text/css" href="/css/autosuggest_inquisitor.css"/><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/><link rel="search" type="application/opensearchdescription+xml" title="VTTL Tafeltennis" href="/misc/competitie-vttl.xml"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black"/></head><body class="Interclubs"><a name="top"/><div id="header"><table class="Interclubs_Top_Banner" align="center" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><table align="center" cellspacing="0" cellpadding="0">
+<tr><td class="Interclubs_Top_Banner_Left">&amp;nbsp</td><td class="Interclubs_Top_Banner_Middle"><a href="/?lang=nl"><img border="0" width="248" height="53" src="/images/tables/vide.gif" align="bottom" alt="*"/></a></td><td class="Interclubs_Top_Banner_Right">&amp;nbsp</td></tr></table>
+</td></tr></table>
+<table class="Interclubs_Top_Menu" align="center" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="Interclubs_Top_Menu"><a class="Interclubs_Top_Menu" href="/?menu=0">Home</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=1">Clubs</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=2">Afdelingen</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=3">Kalender</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=4">Resultaten</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=5">Rangschikking</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu_Selected" href="/?menu=6">Leden</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=7">Tornooien</a></td>
+ </tr>
+</table>
+</div><div id="content"><table width="100%" cellpadding="0" cellspacing="0"><tr style="width: 100%;"><td valign="top" style="padding-left:5px;"><div id="leftmenu"><table class="Interclubs_Left_Menu" align="center" cellspacing="0" cellpadding="0">
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Gebruiker </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?login=1&amp;continue_url=menu%3D6%26categ_id%3D29%26club_id%3D269%26season%3D15%26cur_page%3D1">Login</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?register=1&amp;menu=0&amp;continue_url=categ_id%253D29%2526club_id%253D269%2526cur_page%253D1%2526MySession%253D329e80092a7da35ed835669d19a3d0bc%2526menu%253D6%2526season%253D15">Registratie</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Niveau </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=14&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">KBTTB</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?province=12&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">VTTL</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=13&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">AF</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=2&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Vlaams-Brabant &amp; Br.</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=4&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Antwerpen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=5&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Oost-Vlaanderen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=6&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">West-Vlaanderen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=7&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Limburg</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=3&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Br. &amp; Brabant Wallon</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=8&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Hainaut</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=9&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Luxembourg</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=10&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Li&#xE8;ge</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=11&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Namur</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Seizoen </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=1&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2000-2001</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=2&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2001-2002</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=3&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2002-2003</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=4&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2003-2004</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=5&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2004-2005</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=6&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2005-2006</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=7&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2006-2007</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=8&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2007-2008</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=9&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2008-2009</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=10&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2009-2010</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=11&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2010-2011</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=12&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2011-2012</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=13&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2012-2013</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=14&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2013-2014</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?season=15&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2014-2015</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=16&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2015-2016</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=17&amp;categ_id=29&amp;club_id=269&amp;cur_page=1">2016-2017</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Acties </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?modif=1&amp;sel=0">Eigenschappen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="javascript:gotourl('/','result=1');">Resultaten</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;summary=1">Samengevat</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;stat=1">Statistieken</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;pyramid=1">Klassementspiramide</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?pdf=1&amp;compute_pdf=1&amp;categ_id=29">Afdrukken</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Statistieken </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;summary=1">Leden per club</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;stat=1">Statistieken</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;pyramid=1">Klassementspiramide</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Galerij </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?gallery=1">Foto's</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/">Resultaten</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Zoeken </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu_Selected">   <form method="GET" action="/index.php" style="margin: 0px; width:100%;">&#xD;
+     <input type="hidden" name="menu" value="6"/>&#xD;
+     <input class="search" id="player_search" name="player_search" type="text" size="30" maxlength="30" title="Typ de naam of het aansluitingsnummer van de te zoeken speler en druk op [ENTER]" onmouseover="this.className='search_hover';" onmouseout="this.className='search';" value=""/>&#xD;
+     <input type="hidden" name="modif" value="1"/>&#xD;
+   </form></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Taal </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?lang=fr&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Frans</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?lang=nl&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Nederlands</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?lang=en&amp;menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1">Engels</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr></table>
+</div></td><td style="width:100%;" valign="top"><table class="mainarea" align="center" style="width:100%; margin-top:5px"><tr><td style="width: 5px;">&#xA0;</td><td><div id="mainarea"><script type="text/javascript"><![CDATA[
+function ClubChanged()
+{
+  var obj = document.getElementById('ClubList');
+  location.href = '/index.php?menu=6&categ_id=29&season=15&MySession=329e80092a7da35ed835669d19a3d0bc&club_id='+obj.value;
+}
+]]></script><div id="ClubSearch" style="visibility:hidden;position:absolute;">
+<table class="Tooltip">
+<tr><td>
+<table class="TooltipTop"><tr><td>Te zoeken club</td></tr></table>
+<table class="TooltipText">
+<tr><td><input type="text" size="20" name="SearchBox" id="SearchBox" onkeydown="return CheckCR(event);" onkeyup="DoSearch(event);"/></td></tr>
+<tr><td><input type="image" class="image" src="/images/vttl/save.png" align="absmiddle" style="height:20px;" onclick="ClubChanged();" alt="Bevestigen"/>&#xA0;<input type="image" class="image" src="/images/vttl/window-close-16.png" value="Sluiten" onclick="CloseSearchPopup();" style="height:20px" align="absmiddle" alt="Sluiten"/></td></tr>
+</table>
+</td></tr>
+</table>
+</div>
+<script type="text/javascript" src="js/clubsearch.js"/>
+<script type="text/javascript"><![CDATA[
+function CheckCR(e)
+{
+  if(document.all) e = window.event; // for IE
+  if (e.keyCode == 13)
+  {
+    ClubChanged()
+    return false;
+  } 
+}
+function DoSelectSearch(e)
+{
+  if (document.all) e = window.event; // for IE
+  var obj = document.getElementById('ClubList');
+  if (obj == null) return;
+  if ((e.keyCode>=65 && e.keyCode<=96) ||
+       e.keyCode==32 || e.keyCode==52 || e.keyCode==190 ||
+      (e.keyCode>=48 && e.keyCode<=57))
+  {
+    SetSearchString(searchstring+String.fromCharCode(e.keyCode));
+    SelectSearch(e, searchstring, 'ClubList');
+  }
+}
+]]></script><script type="text/javascript"><![CDATA[
+function ClassChanged()
+{
+  var obj = document.getElementById('ClassList');
+  location.href = '/index.php?menu=6&categ_id=29&club_id=269&season=15&MySession=329e80092a7da35ed835669d19a3d0bc&class_id='+obj.value;
+}
+]]></script><script language="javascript"><![CDATA[
+function CategChanged()
+{
+  var obj = document.getElementById('CategList');
+  var strict_category_query = '';
+  var strict_check = document.getElementById('CategList_strict');
+  if (strict_check)
+  {
+    strict_category_query = '&strict_category='+(strict_check.checked?'1':'0');
+  }
+  location.href = '/index.php?menu=6&club_id=269&season=15&MySession=329e80092a7da35ed835669d19a3d0bc&categ_id='+obj.value+strict_category_query;
+}
+]]></script><script language="javascript"><![CDATA[
+function OnPlayerStatusChanged()
+{
+  var obj = document.getElementById('PlayerStatus');
+  location.href = '/index.php?menu=6&categ_id=29&club_id=269&season=15&cur_page=1&MySession=329e80092a7da35ed835669d19a3d0bc&player_status='+obj.value;
+}
+]]></script><div class="interclubs_subtitle_wrapper">
+<table cellspacing="0" style="margin: auto;" class="interclubs_subtitle">
+  <tr><td class="interclubs_subtitle">Filters</td></tr></table>
+</div>
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="2" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Lidnummer</td>
+  <td class="DBTable" field="col2"><script type="text/javascript"><![CDATA[
+function OnIndexSearch(supp_query)
+{
+  var filt_index = document.getElementById('filt_index');
+  var new_href = '/index.php?menu=6&categ_id=29&club_id=269&season=15&cur_page=1&MySession=329e80092a7da35ed835669d19a3d0bc&filt_index='+filt_index.value;
+  if (typeof(supp_query) != 'undefined' && supp_query != '')
+  {
+    new_href += supp_query;
+  }
+  location.href=new_href;
+}
+function check_key()
+{
+  if (event.keyCode >= 8 && event.keyCode <= 9) return true;
+  if (event.keyCode >= 16 && event.keyCode <= 18) return true;
+  if (event.keyCode >= 33 && event.keyCode <= 40) return true;
+  if (event.keyCode >= 45 && event.keyCode <= 46) return true;
+  if (event.keyCode >= 48 && event.keyCode <= 57) return true;
+  if (event.keyCode >= 96 && event.keyCode <= 105) return true;
+
+  if (event.keyCode == 13)
+  {
+    document.getElementById('go_to_props').click();
+  }
+
+  return false;
+}
+]]></script>
+<input id="filt_index" size="20" maxlength="10" value="" onkeydown="return check_key();"/>&#xA0;
+<input type="image" src="/images/vttl/search-16.png" align="absmiddle" alt="Zoeken" title="Zoeken naar een speler op basis van zijn/haar lidnummer" onclick="OnIndexSearch();"/>&#xA0;
+<input id="go_to_props" type="image" src="/images/vttl/edit-16.png" align="absmiddle" alt="Wijzigen" title="Een speler wijzigen op basis van zijn/haar lidnummer" onclick="OnIndexSearch('&amp;modif=1');"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Club</td>
+  <td class="DBTable" field="col2"><select id="ClubList" onchange="ClubChanged();"><option value="0">Alle</option><option value="780">000 - Indiv. KBTTB/FRBTT</option><option value="287">A000 - Individueel Antwerpen</option><option value="34">A003 - KTTC Salamander Mechelen</option><option value="187">A008 - TTC Ekerse</option><option value="150">A062 - KTTC  A.F.P. Antwerpen</option><option value="299">A074 - KTTC Sporting Hove</option><option value="298">A075 - TTC Rupel</option><option value="309">A095 - TTK Turnhout</option><option value="302">A097 - KTTC Nijlen</option><option value="295">A105 - TTK Dessel</option><option value="28">A115 - TTK Dylan Berlaar</option><option value="236">A117 - Geelse TTC</option><option value="306">A118 - TTK Rijkevorsel</option><option value="312">A123 - TTC Virtus</option><option value="305">A127 - TTC Retie</option><option value="292">A129 - Borsbeek TTK</option><option value="33">A130 - TTC Schoten</option><option value="31">A135 - TTC Minderhout</option><option value="294">A136 - TTC Zoersel</option><option value="291">A138 - TTC Blue Rackets</option><option value="296">A139 - KTTC Hallaar</option><option value="761">A141 - TTK Merksplas</option><option value="310">A142 - TTC Tecemo</option><option value="307">A146 - Sevos TTC</option><option value="152">A147 - TTK Gierle</option><option value="26">A155 - TTC Wommelgem</option><option value="773">A159 - TTK Real</option><option value="35">A160 - T.T.C. Walem</option><option value="300">A167 - TTC Lille "Boemerangske"</option><option value="308">A172 - Sint Lenaarts</option><option value="148">A176 - TTC Sokah Hoboken</option><option value="775">A178 - TTK Beerse</option><option value="147">A182 - TTC Nodo</option><option value="311">A184 - TTC Tisselt</option><option value="313">A186 - TTC Willebroek</option><option value="29">A201 - TTC Hulshout</option><option value="297">A210 - TTC Heemskerk</option><option value="314">A211 - TTK Zwijndrecht</option><option value="214">A212 - TTC Sint Antonius</option><option value="767">A216 - TTC Henricus</option><option value="744">AF001 - Individuel Aile Francophone</option><option value="376">BBW000 - Bruxelles Brabant Wallon</option><option value="14">BBW003 - Royal Smash-Panth&#x9BEE; Wol-St-Lambert</option><option value="15">BBW015 - C.T.T. Royal Alpa Ixelles Schaerbeek</option><option value="368">BBW034 - Set Jet Fleur Bleue</option><option value="155">BBW078 - Royal King Kong Anciens 13</option><option value="156">BBW118 - C.T.T. Nivellois</option><option value="777">BBW123 - Limal Wavre</option><option value="17">BBW134 - Arc En Ciel T.T.</option><option value="18">BBW144 - Royal Cercle de Tennis de Table Anderlecht</option><option value="157">BBW145 - Muppet's TT Auderghem</option><option value="139">BBW147 - C.T.T. Royal 1865</option><option value="144">BBW155 - P.A.C. Clabecq</option><option value="19">BBW156 - C.T.T. Schaerbeek</option><option value="158">BBW164 - Royal Maccabi</option><option value="229">BBW165 - Le Logis Auderghem</option><option value="143">BBW171 - Woluwe</option><option value="1">BBW179 - C.T.T. Braine l'Alleud</option><option value="159">BBW184 - Avia T.T.</option><option value="160">BBW190 - C.T.T. Safran</option><option value="161">BBW194 - Puma Rixensart Lasne</option><option value="162">BBW201 - Euroclub</option><option value="20">BBW202 - C.T.T. Paluc</option><option value="163">BBW205 - Besace - Morichar - Wolvendael</option><option value="164">BBW206 - Masters 21 Molenbeek</option><option value="142">BBW214 - C.T.T. Ottignies</option><option value="135">BBW223 - C.T.T. Mont-St-Guibert</option><option value="182">BBW227 - La Palette Ixelloise</option><option value="183">BBW238 - Ideal T.T.</option><option value="184">BBW246 - Jandrain</option><option value="166">BBW264 - Charles-Quint T.T.</option><option value="172">BBW281 - Derni&#xE8;re Heure/Les Sports</option><option value="171">BBW287 - T.T.C. Dongelberg</option><option value="169">BBW289 - P.P. Perwez</option><option value="168">BBW291 - P.P. Witterzee</option><option value="174">BBW292 - C.T.T. Etterbeek</option><option value="167">BBW299 - C.T.T. Hamme-Mille 6V</option><option value="185">BBW314 -  C.T.T. Les Merles</option><option value="2">BBW315 - C.T.T. Le Moulin</option><option value="179">BBW316 - Palette Saint-Gilloise</option><option value="141">BBW319 - Piranha T.T. Waterloo</option><option value="140">BBW321 - Eveil</option><option value="21">BBW323 - Smash Evere</option><option value="136">BBW326 - Gremlin's 90 Forest</option><option value="22">BBW329 - A.S. Karreveld</option><option value="178">BBW336 - CTT Blocry</option><option value="189">BBW338 - C.T.T. Fonteny Sports</option><option value="190">BBW339 - Amicale TT Alpha</option><option value="659">BBW341 - CTT Quanaka Saintoise</option><option value="191">BBW342 - Bienvenue CTT</option><option value="443">BBW343 - Walhain Top Spin</option><option value="650">BBW344 - Palhu</option><option value="736">BBW345 - AS Beauchamp</option><option value="754">BBW346 - CTT Capricorne</option><option value="776">BBW347 - CTT Amicale Ping Defre</option><option value="681">H000 - Hainaut</option><option value="207">H001 - Royal Sporting Villette Charleroi</option><option value="369">H004 - ETT Centre Manage</option><option value="377">H009 - Palette Patria Castellinoise</option><option value="208">H041 - Ping La Louviere</option><option value="209">H054 - C.T.T. Centre EPE Herseaux</option><option value="249">H070 - R.C.T.T Anderlues</option><option value="199">H091 - Dour Palette</option><option value="227">H092 - Royal Palette Verte Ecaussinnes</option><option value="423">H095 - CTT Kitch Mouscron</option><option value="363">H099 - Excelsior Erquelinnes</option><option value="644">H107 - Royal Charleroi Sporting Club</option><option value="210">H116 - C.T.T. Peissant</option><option value="623">H120 - Royal Palette Maurage</option><option value="202">H122 - CTT Houdeng</option><option value="727">H124 - CTT La Ruche Mouscron</option><option value="462">H128 - Royal Ctt Thuin</option><option value="79">H133 - C.T.T. Tilly</option><option value="248">H136 - C.T.T. Heppignies</option><option value="373">H145 - Palette Solrezienne</option><option value="374">H146 - Etoile Chevrotine</option><option value="756">H147 - CTT Ransart Vigneron</option><option value="545">H149 - Mont/s/marchienne - Le Tilleul</option><option value="151">H151 - P.J.H.W. Saint Ghislain</option><option value="602">H165 - Palette Le Roeulx-ghislage</option><option value="398">H177 - TTC Manage</option><option value="537">H182 - Les Bons Villers</option><option value="485">H198 - Ctt Cosmos Vellereille</option><option value="399">H200 - CP MONTOIS</option><option value="211">H202 - C.T.T. Presles</option><option value="149">H203 - Palette Neufvilles Senne</option><option value="81">H206 - Goliath Pays Vert Athois</option><option value="608">H207 - Palette Baileusienne</option><option value="550">H210 - Ttc Leval</option><option value="85">H215 - Espoir Borain</option><option value="446">H218 - Ctt Bosquet</option><option value="647">H220 - Palette Espoir Momignies</option><option value="188">H227 - C.T.T. Palette Leuzoise</option><option value="643">H231 - La Palette Hellebecquoise</option><option value="471">H235 - Epb Farciennes</option><option value="375">H242 - CP Luttre</option><option value="82">H247 - T.T. Chimay</option><option value="555">H249 - Palette Rancoise</option><option value="83">H253 - Le Tr&#xE8;fle Lensois</option><option value="84">H254 - A.E.D.E.C. Hyon</option><option value="450">H258 - Alliance Jeunes Couillet</option><option value="448">H259 - Ctt Beaumont</option><option value="252">H268 - C.T.T. G.P.H. Roux</option><option value="671">H275 - Palette Bourlesienne</option><option value="468">H280 - Ttc Allain</option><option value="624">H282 - Palette Escaillonne</option><option value="463">H287 - Ctt Binche</option><option value="86">H290 - Palette Bon Secours</option><option value="638">H292 - Gerpinnes</option><option value="568">H296 - CTT Acren</option><option value="427">H297 - Raquette Rouge Basecles</option><option value="87">H298 - C.T.T. Nalinnes-Centre</option><option value="205">H300 - CTT ASCEL Cheminots Monceau</option><option value="573">H301 - El Paraplu Wodecq</option><option value="180">H306 - C.T.T. Mons Ecurie</option><option value="88">H307 - Don Bosco Tournai</option><option value="609">H312 - CTT S.p.a. Mont-sur-mrchienne-loverval</option><option value="203">H314 - CTT Chatelet</option><option value="439">H326 - Essor Luna Marquain</option><option value="645">H333 - Palette Obourgeoise</option><option value="444">H334 - Palette Colfontaine-flenu</option><option value="566">H342 - Palette Huissignies</option><option value="648">H343 - Odyssee Club Maubray</option><option value="431">H351 - Smash-club Quievrain</option><option value="683">H355 - CTT Hensies</option><option value="552">H359 - Ett Vaulx</option><option value="649">H360 - Ps Villers-la-tour Fph</option><option value="711">H364 - CTT Landelin-tilleul</option><option value="440">H366 - Ctt Pironchamps</option><option value="89">H373 - Palette Deux-Haines</option><option value="212">H378 - S.P.A. Mont-sur-Marchienne</option><option value="434">H379 - La Docherie Ppc</option><option value="610">H382 - Palette Villoise</option><option value="261">H384 - CAJ-MIR Colfontaine</option><option value="708">H385 - Gossima Club Seneffe</option><option value="381">H387 - Ping Pong Club Pecq</option><option value="680">H393 - Ping-pong Club Maulde</option><option value="90">H399 - Palette Saint-Piat</option><option value="607">H400 - Palette Friends Papignies</option><option value="467">H405 - Epe Palette Kain</option><option value="611">H406 - Palette Acoustic Herchies</option><option value="679">H407 - Palette Aldegondoise</option><option value="694">H410 - La Palette Gaurinoise</option><option value="91">H411 - M.J.T. Ecaussinnes</option><option value="676">H414 - Ttc Merbes-sainte-marie</option><option value="613">H415 - Ppc Stree</option><option value="549">H416 - Dynamic Cuesmes</option><option value="213">H417 - Club Pongiste Montois</option><option value="669">H418 - Ttc Arc-en-ciel Tournai</option><option value="672">H420 - As Leernes</option><option value="447">H422 - Rppc Antoing-bruyelle</option><option value="612">H423 - Palette Naastoise</option><option value="92">H424 - C.T.T. Braine</option><option value="675">H425 - Npj Anderlues</option><option value="551">H426 - New Ping Manage</option><option value="707">H428 - TT Les Templiers Saint-leger</option><option value="554">H429 - CTT Maisieres</option><option value="709">H430 - CTT Ping 2000 Ecaussinnes</option><option value="93">H432 - Palette Thirimont 2000</option><option value="743">H433 - La Palette Estinnoise</option><option value="726">H435 - Cercle Sportif Ctt Estaimbourg</option><option value="553">H436 - C.t.t. Fontaine</option><option value="646">H437 - CTT La Bassee Roux</option><option value="692">H438 - Mjt Baulet-fleurus</option><option value="729">H439 - CTT Melles Loisirs</option><option value="748">H441 - CTT Enghien</option><option value="757">H442 - MJ Greemlins Quaregnon</option><option value="758">H443 - Snooping Mouscron</option><option value="760">H444 - TT Tournai</option><option value="779">H445 - La Palette Verte de Rumillies</option><option value="691">L000 - Liege</option><option value="489">L002 - Amicale Dolhain Ttc</option><option value="685">L003 - Royal Raquette Pepinster</option><option value="637">L029 - Bas-oha</option><option value="409">L030 - Rs Chenee</option><option value="581">L043 - Rcs Vise Tt</option><option value="580">L048 - Rttcp Micheroux</option><option value="667">L066 - CTT Herve</option><option value="98">L095 - T.T. Verviers</option><option value="412">L098 - TT Ans</option><option value="582">L111 - Saint-remacle</option><option value="245">L119 - RCTT Astrid Herstal</option><option value="710">L124 - Jandrain</option><option value="492">L125 - TT Ozanam-Wegnez</option><option value="496">L126 - Royal Tts Chiroux Hannut</option><option value="628">L143 - CTT Ivoz</option><option value="584">L152 - Ttc Beaufays</option><option value="247">L165 - C.T.T. Aywaille</option><option value="242">L170 - Donald Heuseux</option><option value="585">L179 - Royal Tt Plein Vent</option><option value="629">L184 - TT Theux</option><option value="630">L185 - TT Blegny</option><option value="226">L193 - TT Saint Georges</option><option value="586">L199 - TT Saint-hubert Liege</option><option value="686">L205 - TT Borlez</option><option value="587">L217 - TT Dolembreux</option><option value="420">L218 - Gervina</option><option value="720">L220 - TT Spirou</option><option value="499">L230 - TTC Marchin</option><option value="99">L234 - Palette Hollogne</option><option value="721">L235 - TT Oreye</option><option value="631">L246 - Fallais Tt</option><option value="500">L252 - Ctt Francorchamps</option><option value="588">L255 - Palette Modavienne</option><option value="664">L257 - TT Tihange</option><option value="364">L263 - TT Awirs</option><option value="100">L264 - C.T.T. Ti&#xE8;ge</option><option value="502">L265 - TT Vinalmont</option><option value="589">L266 - Amay-Hermalle</option><option value="590">L267 - Ttc Renaissance</option><option value="506">L272 - TT Eupen</option><option value="101">L274 - C.T.T. Welkenraedt</option><option value="503">L275 - TT Etoile Remicourt</option><option value="501">L276 - TTC Wanze</option><option value="591">L282 - Clavier</option><option value="372">L284 - TT Montzen Jeunes</option><option value="592">L291 - TT Hermalle</option><option value="510">L293 - Tt La Chaine Orp</option><option value="102">L295 - T.T.C. Bettincourt</option><option value="593">L296 - Ttc Astoria - La Calamine</option><option value="632">L301 - TT Petit-rechain</option><option value="703">L304 - T.t. Vottem</option><option value="594">L310 - Ttc Templiers</option><option value="511">L312 - Palette Retinne</option><option value="103">L313 - C.T.T. Smash Robertville</option><option value="204">L316 - Titi Oupeye</option><option value="382">L318 - Ttc Recht / Saint-Vith</option><option value="595">L320 - Ttc Raeren</option><option value="104">L323 - C.T.T. Minerois</option><option value="633">L326 - TT Jalhay</option><option value="513">L328 - TT Stavelot</option><option value="666">L329 - Ttc Wanne</option><option value="421">L333 - Ttc Wasseiges</option><option value="634">L335 - Ttc Waremme</option><option value="597">L337 - TT Athenee Malmedy</option><option value="596">L338 - TT Sarolay</option><option value="514">L344 - Ttc Aubel</option><option value="598">L348 - Ttc Elsenborn</option><option value="636">L349 - Entente Loisirs Geromont</option><option value="517">L351 - Tt Ninane</option><option value="521">L355 - Tt Ermitage-herstal Asbl</option><option value="704">L357 - TT Bolland</option><option value="688">L358 - Es Crisnee Tt</option><option value="105">L360 - T.T. SFX</option><option value="689">L363 - TT Olne</option><option value="706">L364 - TT Tempo Chaineux</option><option value="674">L365 - TT 4210 Marneffe</option><option value="690">L368 - TT Daltons Membach</option><option value="529">L370 - Ctt Renaissance Montegnee</option><option value="705">L371 - Verlaine Tt</option><option value="134">L374 - TTC Viamont</option><option value="525">L377 - Ttc Wonck</option><option value="731">L378 - Palette Vervietoise</option><option value="687">L379 - TT Huy</option><option value="728">L380 - CTT Liers</option><option value="533">L381 - Ttc Les Collegues</option><option value="583">L382 - CTT Spa</option><option value="422">L383 - Prayon</option><option value="599">L384 - Attc Beyne</option><option value="722">L385 - Sportsfreunde</option><option value="723">L387 - Ttc Jehay</option><option value="579">L389 - TT Pingouin Stembert</option><option value="665">L390 - Ttc Bardafons</option><option value="733">L391 - Atout Ping</option><option value="737">L392 - T.T. Vervia Jeunes</option><option value="750">L393 - Les Patapongistes Heron</option><option value="749">L394 - TT Bombaye</option><option value="755">L395 - CTT UFH Bamoir</option><option value="288">LK000 - Individueel Limburg</option><option value="341">LK006 - TTC Opitter</option><option value="69">LK007 - K.T.T.C. Meteor Bree</option><option value="215">LK009 - KTTC Leopoldsburg vzw</option><option value="216">LK010 - TTC Palet Houthalen</option><option value="217">LK012 - TTV Lipalet</option><option value="76">LK016 - T.T.C. Smash Heusden</option><option value="77">LK017 - TTC Voorshoven vzw</option><option value="70">LK024 - T.T.C. Aarschot</option><option value="339">LK026 - TTC Rijkel-Borgloon</option><option value="218">LK031 - TTC Jevota Lanaken</option><option value="71">LK033 - T.T.C. As</option><option value="342">LK036 - TTC Lommel</option><option value="343">LK037 - TTC Bambi</option><option value="72">LK049 - T.T.K. Herckenrode</option><option value="73">LK051 - TTC Hasselt</option><option value="219">LK052 - TTC Schulen</option><option value="344">LK054 - Hatatek Hamont</option><option value="146">LK056 - TTC Morata Mol</option><option value="345">LK058 - TTC Opglabbeek</option><option value="78">LK060 - TTC Westel</option><option value="346">LK061 - TTC Paal</option><option value="347">LK062 - TTK Genk</option><option value="348">LK068 - TTC Tongeren</option><option value="349">LK071 - TTC  RS Bilzen</option><option value="350">LK076 - TTV Meeuwen</option><option value="351">LK084 - TTC Centrum Hasselt</option><option value="352">LK085 - TTC Mattec</option><option value="353">LK086 - TTC Dilsen</option><option value="354">LK087 - TTC Bocholt vzw</option><option value="356">LK089 - TTC Hechtel-Eksel</option><option value="357">LK092 - TTC Sint-Truiden</option><option value="220">LK093 - TTV Malpertuus</option><option value="358">LK095 - TTC Smash Zutendaal</option><option value="74">LK100 - T.T.C. Alken</option><option value="221">LK103 - TTC Tamara Hoeselt</option><option value="257">LK105 - TTC Stokrooie</option><option value="75">LK109 - T.T.V. Neerpelt</option><option value="238">LK110 - TTC Molenbeersel</option><option value="359">LK111 - TTC Diepenbeek</option><option value="361">LK115 - TTC Fair Play Peer</option><option value="774">LK117 - TTC Voeren</option><option value="715">Lx000 - Luxembourg</option><option value="230">Lx001 - TTC Sud Telecom Virton</option><option value="569">Lx003 - Tillet</option><option value="243">Lx005 - TTC On</option><option value="561">Lx006 - TT Halanzy-musson</option><option value="535">Lx007 - Chene-Al'Pierre</option><option value="544">Lx008 - Biermonfoy</option><option value="562">Lx011 - Arlon</option><option value="482">Lx012 - Ctt Messancy</option><option value="459">Lx013 - Ambly</option><option value="682">Lx014 - Bastogne</option><option value="653">Lx022 - Bourcy</option><option value="640">Lx025 - Us Hondelange</option><option value="461">Lx026 - Hachy</option><option value="466">Lx028 - Selange</option><option value="385">Lx031 - Ctt Schoppach</option><option value="456">Lx034 - Neufchateau</option><option value="94">Lx035 - T.T. Altitude 500 Libramont</option><option value="460">Lx037 - Marloie</option><option value="660">Lx038 - Marche</option><option value="534">Lx039 - Jamoigne</option><option value="616">Lx042 - Vilval</option><option value="617">Lx044 - Palette Centre</option><option value="642">Lx045 - Longchamps</option><option value="714">Lx047 - Raquette Salmienne Vielsalm</option><option value="677">Lx052 - Saint-hubert</option><option value="362">Lx053 - Bouillon</option><option value="536">Lx054 - Tenneville</option><option value="619">Lx055 - Sainlez</option><option value="678">Lx058 - Bras</option><option value="600">Lx059 - TT Athenee Athus</option><option value="95">Lx065 - T.T. Ch&#xE2;tillon</option><option value="96">Lx068 - T.T. Joubi&#xE9;val</option><option value="393">Lx069 - Meix-devant-virton</option><option value="563">Lx070 - Arbrefontaine</option><option value="458">Lx071 - Langlire T.t.c.</option><option value="424">Lx074 - Rulles</option><option value="655">Lx075 - Gouvy</option><option value="366">Lx076 - TT Dinez</option><option value="457">Lx081 - Ttc Melreux</option><option value="390">Lx085 - Tt Houffalize</option><option value="654">Lx088 - Fays-les-veneurs</option><option value="565">Lx089 - Ochamps</option><option value="670">Lx091 - Maissin</option><option value="635">Lx092 - Petit-thier</option><option value="564">Lx093 - Ttc Entente Ourthoise</option><option value="97">Lx094 - T.T.C. Montleban</option><option value="367">Lx097 - GTT Aye</option><option value="615">Lx099 - Palette Basse Semois</option><option value="700">Lx100 - Devantave</option><option value="716">Lx101 - TT Winaloise</option><option value="742">Lx102 - Saint Vincent</option><option value="570">Lx103 - T.t. Beausaint</option><option value="626">Lx105 - TT Haute S&#xFB;re</option><option value="464">Lx106 - Les Fosses</option><option value="543">Lx107 - Villers-sainte-gertrude</option><option value="661">Lx108 - Lamouline</option><option value="618">Lx110 - Ethe</option><option value="567">Lx111 - Ttc Lafosse</option><option value="365">Lx112 - Lomme</option><option value="656">Lx114 - L' Ourgnette</option><option value="641">Lx115 - TT Castors</option><option value="620">Lx116 - Tennis De Table Wellin</option><option value="739">Lx117 - TTC Sibret</option><option value="740">Lx118 - T.T. Freylange</option><option value="741">Lx119 - CTT Barvaux-Sur-Ourthe</option><option value="759">Lx120 - CTT Val d'Attert</option><option value="778">Lx121 - TT Attert</option><option value="693">N000 - Namur</option><option value="625">N021 - Namur Saint Georges</option><option value="575">N023 - CTT Le Forbot Dinant</option><option value="228">N025 - Royal Mickey Club Falisolle</option><option value="232">N027 - Etoile Basse Sambre</option><option value="698">N028 - Royale Palette Isnoise</option><option value="383">N034 - Palette Mazy-Spy</option><option value="106">N036 - JemClub</option><option value="474">N037 -  Royal Andenne Tt</option><option value="541">N041 - Bouge</option><option value="484">N043 - Ctt Hastiere</option><option value="556">N045 - Palette Gembloux</option><option value="429">N047 - Tt Mornimont</option><option value="542">N048 - TTSM Jambes</option><option value="239">N051 - Vedrinamur</option><option value="378">N052 - TTSC Moustier</option><option value="673">N055 - Jeunesse Florennes</option><option value="108">N066 - C.T.T. Corenne</option><option value="547">N068 - CTT Rouillon</option><option value="109">N069 - C.T.T. Philippeville</option><option value="110">N073 - La Cipale</option><option value="662">N074 - Ppc Patria Beauraing</option><option value="380">N076 - Somzee</option><option value="560">N078 - Palette Beezoise</option><option value="111">N079 - T.T. Leuze 65</option><option value="696">N080 - CTT Chastres</option><option value="251">N081 - C.T.T. Barrage</option><option value="577">N083 - Floreffe</option><option value="112">N088 - Palette Frasnienne</option><option value="260">N092 - Palette Nismes</option><option value="684">N093 - Ttc Arbre</option><option value="557">N094 - Ttc Havelange</option><option value="540">N100 - CTT Andoy</option><option value="388">N101 - Palette Saint Louis Rosee</option><option value="455">N102 - Tt Namur</option><option value="113">N103 - T.T. Rhisnes</option><option value="453">N104 - Malonne</option><option value="712">N109 - Erpent</option><option value="114">N112 - T.T. Asterix Saint-Marc</option><option value="379">N114 - JS Gonrieux</option><option value="115">N115 - C.T.T. Presgaux</option><option value="430">N118 - Profondeville</option><option value="576">N119 - Imperial Bossiere</option><option value="539">N120 - Loyers</option><option value="548">N126 - Ermeton Tt</option><option value="651">N129 - Palette Club Fossoise</option><option value="250">N130 - Champ d'en Haut</option><option value="546">N131 - CTT Evrehailles</option><option value="718">N132 - Beuzet</option><option value="663">N136 - Palette Tgv</option><option value="405">N137 - Couvin</option><option value="695">N140 - TT Sartois</option><option value="658">N146 - Cstt Seilles</option><option value="571">N147 - Harlue</option><option value="702">N148 - Es Thyria</option><option value="627">N149 - TT Evelette</option><option value="652">N151 - CTT Romedenne</option><option value="622">N152 - Mj Oignies</option><option value="116">N153 - Palette Club Ligny</option><option value="657">N155 - Oret</option><option value="603">N156 - Purnode</option><option value="639">N158 - Villers-promotion</option><option value="433">N159 - Tt Tillier</option><option value="614">N160 - Spontin</option><option value="699">N162 - Samourai Sombreffe</option><option value="697">N163 - Palette Suarlee</option><option value="572">N170 - TT Rail Club Namur</option><option value="719">N175 - Palette Brognoise</option><option value="578">N176 - TT Gesves</option><option value="668">N178 - Mont Pcbv</option><option value="436">N180 - Ctt Fraire</option><option value="452">N182 - Gedinne</option><option value="476">N186 - Tt Sauveniere</option><option value="559">N188 - Palette Sartoise</option><option value="717">N189 - Arsimont Tt</option><option value="724">N193 - La Palette Djobine</option><option value="604">N195 - Palette Ollegienne</option><option value="538">N197 - The Youth Paddles Saint-aubin</option><option value="558">N199 - Palette Derby Ham</option><option value="605">N201 - CTT Thy-le-bauduin</option><option value="713">N205 - Albatros Petite-chapelle</option><option value="701">N206 - Mont Gauthier Tt</option><option value="117">N207 - T.T. Bunny Chapois</option><option value="725">N208 - Pc Lesve</option><option value="574">N210 - TT Flawinne</option><option value="606">N211 - Ping Mosan Hastiere</option><option value="621">N213 - Pro-ping Fernelmont</option><option value="730">N214 - Palette Walcourt</option><option value="732">N215 - CTT Treignes</option><option value="738">N216 - CTT Doische</option><option value="752">N217 - Real Namur</option><option value="770">N218 - Burnot</option><option value="771">N219 - CTT Vodecee</option><option value="285">OVL000 - Individueel</option><option value="36">OVL001 - TTC Gent V.Z.W.</option><option value="37">OVL012 - KTTC Meteor Oudenaarde</option><option value="263">OVL018 - KTTC Eikenlo-Eeklo vzw</option><option value="264">OVL020 - TTC Hof Ter Burst</option><option value="52">OVL032 - TTC Merelbeke</option><option value="55">OVL039 - Sint-Niklase Tafeltennisclub</option><option value="266">OVL046 - TTC Melsele</option><option value="267">OVL047 - TTC Palaestra Deinze</option><option value="268">OVL052 - TTC Ronse</option><option value="38">OVL053 - TTC  St.-Joris Sleidinge</option><option value="50">OVL054 - TTC Triumph Ge Mo</option><option value="57">OVL056 - TTC Temse</option><option value="269" selected="selected">OVL059 - TTC  Maldegem</option><option value="39">OVL061 - TTC Sterke Stut Oosterzele VZW</option><option value="235">OVL080 - TTC Knal Deinze</option><option value="270">OVL082 - TTC Welfare Oudenaarde</option><option value="40">OVL088 - TTC Rooigem Gent VZW</option><option value="271">OVL092 - TTC Egmont Zottegem</option><option value="41">OVL093 - TTC Stekene VZW</option><option value="42">OVL095 - TTC De Pinte</option><option value="43">OVL096 - TTC Lansweeper Hamme</option><option value="273">OVL101 - TTC Kruibeke vzw</option><option value="274">OVL102 - TTC HNO Assenede</option><option value="275">OVL103 - De Orchidee Wetteren</option><option value="276">OVL106 - TTC Madelon</option><option value="277">OVL107 - TTC Lobos-Lochristi</option><option value="278">OVL108 - TTC Schendelbeke</option><option value="59">OVL115 - TTC Zomergem</option><option value="279">OVL119 - TTC Ouwegem</option><option value="280">OVL123 - TTC Lede</option><option value="56">OVL125 - TTC Sint-Pauwels vzw</option><option value="49">OVL131 - TTC Eendracht Buggenhout</option><option value="281">OVL133 - TTC Grimminge</option><option value="282">OVL134 - TTC Erembodegem</option><option value="46">OVL138 - TTC Olsene vzw</option><option value="47">OVL142 - TTC Zele</option><option value="283">OVL144 - Tass</option><option value="284">OVL145 - TTC Denderleeuw 2001</option><option value="735">OVL146 - TTC Aaigem</option><option value="753">OVL148 - TTC Ninove</option><option value="763">OVL149 - TTC De Rijdt Brakel</option><option value="181">Vl-B000 - Individueel Vlaams-Brabant</option><option value="6">Vl-B005 - K.T.T.K Pingouin Leuven</option><option value="153">Vl-B161 - T.T.C. Den Hoek</option><option value="5">Vl-B182 - T.T. Groot-Bijgaarden</option><option value="7">Vl-B213 - T.T.C. Humbeek</option><option value="12">Vl-B218 - T.T.K Vilvo</option><option value="3">Vl-B225 - Hurricane T.T.W.</option><option value="4">Vl-B234 - T.T.C. Meerdaal Leuven</option><option value="195">Vl-B247 - TTC Galmaarden</option><option value="8">Vl-B248 - P.P.K. Essenbeek</option><option value="193">Vl-B252 - T.T.C Lembeek</option><option value="154">Vl-B256 - Smash Overijse</option><option value="772">Vl-B283 - TTC Smash Dolfijn</option><option value="137">Vl-B293 - P.W. Diest</option><option value="9">Vl-B295 - T.T.C. Werchter</option><option value="194">Vl-B318 - VMS</option><option value="746">Vl-B330 - TTC Sukarti</option><option value="176">Vl-B331 - TT Blauwput Omnisport</option><option value="11">Vl-B334 - T.T.C. Tacko</option><option value="256">Vl-B336 - Pingkolo</option><option value="768">Vl-B338 - Cervus Schaffen</option><option value="781">Vl-B339 - TTC Drive Tienen</option><option value="233">VTTL - Buitenland</option><option value="289">VTTL - Individueel</option><option value="286">WVL000 - Individueel West-Vlaanderen</option><option value="336">WVL028 - T.T.C. Zwankendamme</option><option value="206">WVL034 - T.T.C. And Leie Lauwe</option><option value="259">WVL040 - T.T.C. Sobeka Zwevegem</option><option value="335">WVL045 - T.T.C. Drive Oostende</option><option value="222">WVL048 - TTC Roeselare</option><option value="61">WVL060 - T.T.C. The Charlies</option><option value="62">WVL067 - T.T.C. Easypay</option><option value="334">WVL071 - T.T.C. Nieuwpoort</option><option value="254">WVL072 - T.T.C. Eendracht Kuurne</option><option value="234">WVL085 - TTC Oostduinkerke</option><option value="223">WVL087 - T.T.C. Dino Brugge</option><option value="67">WVL094 - T.T.C. Wielsbeke</option><option value="255">WVL100 - T.T.C.  De woudpalet</option><option value="64">WVL104 - T.T.C. Bredene</option><option value="332">WVL105 - T.T.C. El Pozo Jabbeke</option><option value="68">WVL109 - T.T.C. Zandvoorde</option><option value="224">WVL110 - T.T.C. Jong Gullegem</option><option value="258">WVL112 - T.T.C. Menen</option><option value="331">WVL114 - T.T.C. Oudenburg</option><option value="330">WVL116 - T.T.C. Atanis Kortrijk</option><option value="329">WVL117 - T.T.C. St-Paulus</option><option value="328">WVL125 - T.T.C. Eernegem</option><option value="327">WVL126 - T.T.C. Tielt</option><option value="326">WVL128 - T.T.C. Waregem</option><option value="751">WVL129 - T.T.C. Heuvelland</option><option value="237">WVL133 - T.T.C. Eco Mundi Ieper</option><option value="324">WVL134 - T.T.C. Meulebeke</option><option value="63">WVL136 - TTC Izegem</option><option value="323">WVL137 - T.T.C. Knokke-Heist</option><option value="241">WVL138 - T.T.C. Sportline</option><option value="322">WVL139 - T.T.C. Oostkamp</option><option value="321">WVL141 - T.T.C. Rollegem</option><option value="320">WVL143 - T.T.C. St-Denijs</option><option value="319">WVL152 - T.T.C. Paletje Roeselare</option><option value="318">WVL154 - T.T.C. Free Time Zonnebeke</option><option value="66">WVL157 - T.T.C. Heule</option><option value="65">WVL158 - T.T.C. Damme</option><option value="337">WVL159 - T.T.C. Locomotief Gullegem</option><option value="338">WVL160 - T.T.C. Sorry Koekelare</option><option value="745">WVL161 - T.T.C. Smashing Smude</option><option value="769">wvl162 - T.T.C. KING KONG KASTER</option></select>&#xA0;<input type="image" src="/images/vttl/search-16.png" onclick="DoSearchClub(event, 'ClubList'); return false;" align="absmiddle" id="StartSearch" alt="Zoeken"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Klassering</td>
+  <td class="DBTable" field="col2"><select name="ClassList" id="ClassList" onchange="ClassChanged();"><optgroup label="A" value="6"><option value="g6" selected="selected">A*</option><option value="57">A1</option><option value="36">As1</option><option value="56">A2</option><option value="35">As2</option><option value="55">A3</option><option value="34">As3</option><option value="54">A4</option><option value="33">As4</option><option value="53">A5</option><option value="32">As5</option><option value="52">A6</option><option value="31">As6</option><option value="51">A7</option><option value="30">As7</option><option value="50">A8</option><option value="29">As8</option><option value="49">A9</option><option value="28">As9</option><option value="48">A10</option><option value="27">As10</option><option value="47">A11</option><option value="26">As11</option><option value="46">A12</option><option value="25">As12</option><option value="45">A13</option><option value="24">As13</option><option value="44">A14</option><option value="23">As14</option><option value="43">A15</option><option value="22">As15</option><option value="42">A16</option><option value="21">As16</option><option value="41">A17</option><option value="20">As17</option><option value="40">A18</option><option value="19">As18</option><option value="58">As19</option><option value="39">A19</option><option value="60">As20</option><option value="38">A20</option><option value="78">As21</option><option value="61">A21</option><option value="79">As22</option><option value="62">A22</option><option value="80">As23</option><option value="63">A23</option><option value="81">As24</option><option value="64">A24</option><option value="82">As25</option><option value="65">A25</option><option value="130">As26</option><option value="129">A26</option><option value="133">As27</option><option value="132">A27</option><option value="37">A</option><option value="18">As</option></optgroup><optgroup label="B" value="5"><option value="g5" selected="selected">B*</option><option value="17">B0</option><option value="16">B2</option><option value="15">B4</option><option value="14">B6</option></optgroup><optgroup label="C" value="4"><option value="g4" selected="selected">C*</option><option value="13">C0</option><option value="12">C2</option><option value="11">C4</option><option value="10">C6</option></optgroup><optgroup label="D" value="3"><option value="g3" selected="selected">D*</option><option value="9">D0</option><option value="8">D2</option><option value="7">D4</option><option value="6">D6</option></optgroup><optgroup label="E" value="2"><option value="g2" selected="selected">E*</option><option value="5">E0</option><option value="4">E2</option><option value="3">E4</option><option value="2">E6</option></optgroup><option value="1" style="font-weight:bold; font-size: 115%; font-style: italic;">NG</option><option value="0" selected="selected">Alle</option></select></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Categorie</td>
+  <td class="DBTable" field="col2"><select name="CategList" id="CategList" onchange="CategChanged();"><option value="1">Seniors Heren</option><option value="2">Seniors Dames</option><option value="29" selected="selected" style="font-weight:bold; font-size: 115%; font-style: italic;">Alle</option><option value="30" style="font-weight:bold; font-size: 115%; font-style: italic;">Alle Dames</option><option value="27" style="font-weight:bold; font-size: 115%; font-style: italic;">Jeugd</option><option value="28" style="font-weight:bold; font-size: 115%; font-style: italic;">YouthFilles</option><option value="3" style="font-weight:bold; font-size: 115%; font-style: italic;">Veteranen</option><option value="4" style="font-weight:bold; font-size: 115%; font-style: italic;">Dames Veteranen</option><option value="5">Pre-miniemen</option><option value="6">Pre-miniemen meisjes</option><option value="7">Miniemen</option><option value="8">Miniemen meisjes</option><option value="9">Cadetten</option><option value="10">Cadetten meisjes</option><option value="11">Juniors</option><option value="12">Juniors meisjes</option><option value="13">17-21</option><option value="14">17-21 meisjes</option><option value="15">Benjamins</option><option value="16">Benjamines</option><option value="17">Veteranen 40</option><option value="18">Veteranen Dames 40</option><option value="19">Veteranen 50</option><option value="20">Veteranen Dames 50</option><option value="21">Veteranen 60</option><option value="22">Veteranen Dames 60</option><option value="31">Veteranen 65</option><option value="32">Veteranen Dames 65</option><option value="23">Veteranen 70</option><option value="24">Veteranen Dames 70</option><option value="33">Veteranen 75</option><option value="34">Veteranen Dames 75</option><option value="25">Veteranen 80</option><option value="26">Veteranen Dames 80</option><option value="35">Veteranen 85</option><option value="36">Veteranen Dames 85</option></select></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Naam&#xA0;/&#xA0;Voornaam</td>
+  <td class="DBTable" field="col2"><script type="text/javascript"><![CDATA[
+function OnNameSearch()
+{
+  var LastNameFilter = document.getElementById('LastNameFilter');
+  var FirstNameFilter = document.getElementById('FirstNameFilter');
+  location.href='/index.php?menu=6&categ_id=29&club_id=269&season=15&cur_page=1&MySession=329e80092a7da35ed835669d19a3d0bc&filt_lname='+escape(LastNameFilter.value)+'&filt_fname='+escape(FirstNameFilter.value);
+}
+function check_key_name()
+{
+  if (event.keyCode == 13)
+  {
+    document.getElementById('go_name_search').click();
+    return false;
+  }
+  return true;
+}
+]]></script>
+<input id="LastNameFilter" size="20" maxlength="40" value="" onkeydown="return check_key_name();"/>&#xA0;
+<input id="FirstNameFilter" size="15" maxlength="30" value="" onkeydown="return check_key_name();"/>&#xA0;<input id="go_name_search" type="image" src="/images/vttl/search-16.png" align="absmiddle" alt="Zoeken" onclick="OnNameSearch();"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Statuut Speler</td>
+  <td class="DBTable" field="col2"><select name="PlayerStatus" id="PlayerStatus" onchange="OnPlayerStatusChanged();"><option value="A" selected="selected"> Actief </option><option value="M"> Administratief </option><option value="R"> Recreant </option><option value="V"> Recreant Reserve </option><option value="D"> Dubbele Aansluiting </option><option value="S"> Super Afdeling </option><option value="E"> Buiten </option></select></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="2" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table><div class="interclubs_subtitle_wrapper">
+<table cellspacing="0" style="margin: auto;" class="interclubs_subtitle">
+  <tr><td class="interclubs_subtitle">Spelers</td></tr></table>
+</div>
+<table class="DBTable" editabletable="true" editablefieldid="" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="5" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <th class="DBTable">Lidnummer</th>
+  <th class="DBTable"><a class="DBTable" href="/index.php?menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1&amp;MySession=329e80092a7da35ed835669d19a3d0bc&amp;order=1">Naam</a></th>
+  <th class="DBTable"><a class="DBTable" href="/index.php?menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1&amp;MySession=329e80092a7da35ed835669d19a3d0bc&amp;order=2">Voornaam</a></th>
+  <th class="DBTable"><a class="DBTable" href="/index.php?menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;cur_page=1&amp;MySession=329e80092a7da35ed835669d19a3d0bc&amp;order=3">Kl.</a></th>
+  <th class="DBTable">Acties</th>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="9202">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">504711</td>
+  <td class="DBTable" field="Naam">BUNDERVOET</td>
+  <td class="DBTable" field="Voornaam">CEDRIC</td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=9202&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=9202&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="8579">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">503568</td>
+  <td class="DBTable" field="Naam">VERMEIRSCH</td>
+  <td class="DBTable" field="Voornaam">TOM</td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=8579&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=8579&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="32072">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">512047</td>
+  <td class="DBTable" field="Naam">BRACKE</td>
+  <td class="DBTable" field="Voornaam">BERND</td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=32072&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=32072&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13405">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">503935</td>
+  <td class="DBTable" field="Naam">VERSTUYF</td>
+  <td class="DBTable" field="Voornaam">BART</td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13405&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13405&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="45865">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">515153</td>
+  <td class="DBTable" field="Naam">D'HOOGE</td>
+  <td class="DBTable" field="Voornaam">SANDER</td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=45865&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=45865&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13334">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">503564</td>
+  <td class="DBTable" field="Naam">DE BAETS</td>
+  <td class="DBTable" field="Voornaam">EDDY</td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13334&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13334&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13426">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">504001</td>
+  <td class="DBTable" field="Naam">COCQUYT</td>
+  <td class="DBTable" field="Voornaam">JAN</td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13426&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13426&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="54301">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">517657</td>
+  <td class="DBTable" field="Naam">KHANJARZADEH</td>
+  <td class="DBTable" field="Voornaam">ARMAN</td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=54301&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=54301&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="55975">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">518277</td>
+  <td class="DBTable" field="Naam">SCHOLLAERT</td>
+  <td class="DBTable" field="Voornaam">CHRISTOPHE</td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=55975&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=55975&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13336">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">503569</td>
+  <td class="DBTable" field="Naam">VERSTUYF</td>
+  <td class="DBTable" field="Voornaam">CHRISTIAN</td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13336&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13336&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="54306">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">517662</td>
+  <td class="DBTable" field="Naam">DE BUYSSER</td>
+  <td class="DBTable" field="Voornaam">PIETER</td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=54306&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=54306&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="37442">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">504925</td>
+  <td class="DBTable" field="Naam">MEIRESONNE</td>
+  <td class="DBTable" field="Voornaam">NILS</td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=37442&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=37442&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="11898">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">500799</td>
+  <td class="DBTable" field="Naam">SEYE</td>
+  <td class="DBTable" field="Voornaam">MATTHIAS</td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=11898&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=11898&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13707">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">509606</td>
+  <td class="DBTable" field="Naam">VAN DER HOOFT</td>
+  <td class="DBTable" field="Voornaam">JEROEN</td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13707&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13707&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="58629">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">519251</td>
+  <td class="DBTable" field="Naam">BAKLICHAROV</td>
+  <td class="DBTable" field="Voornaam">GEORGI</td>
+  <td class="DBTable" field="Kl.">E4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=58629&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=58629&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13562">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">504922</td>
+  <td class="DBTable" field="Naam">BASSLE</td>
+  <td class="DBTable" field="Voornaam">SVEN</td>
+  <td class="DBTable" field="Kl.">E4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13562&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13562&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="45862">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">515150</td>
+  <td class="DBTable" field="Naam">SAVAT</td>
+  <td class="DBTable" field="Voornaam">KEELAN</td>
+  <td class="DBTable" field="Kl.">E4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=45862&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=45862&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="15345">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">510548</td>
+  <td class="DBTable" field="Naam">VAN LEEUWE</td>
+  <td class="DBTable" field="Voornaam">LUC</td>
+  <td class="DBTable" field="Kl.">E4</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=15345&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=15345&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="45863">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">515151</td>
+  <td class="DBTable" field="Naam">ALLEMAN</td>
+  <td class="DBTable" field="Voornaam">DJAMILLA</td>
+  <td class="DBTable" field="Kl.">E6</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=45863&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=45863&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable selectable" id="13603">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Lidnummer">505517</td>
+  <td class="DBTable" field="Naam">D'HOOGE</td>
+  <td class="DBTable" field="Voornaam">LORENZO</td>
+  <td class="DBTable" field="Kl.">E6</td>
+  <td class="DBTable" field="Acties"><a class="DBTable_Selectable" href="/index.php?sel=13603&amp;modif=1&amp;season=15" title="Eigenschappen"><img border="0" src="/images/properties-16.png" alt="Eigenschappen"/></a>&#xA0;<a class="DBTable_Selectable" href="/index.php?menu=6&amp;sel=13603&amp;result=1&amp;category=1" title="Resultaten"><img border="0" src="/images/vttl/results-16.png" alt="Resultaten"/></a>&#xA0;<img src="/images/tables/vide.gif" width="18" height="17"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable" id="pager">  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>  <td class="DBTable_Paging" colspan="5" align="center"><span class="DBTable">&#xA0;1&#xA0;</span><a href="/index.php?menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;MySession=329e80092a7da35ed835669d19a3d0bc&amp;cur_page=2" class="DBTable">&#xA0;2&#xA0;</a><a href="/index.php?menu=6&amp;categ_id=29&amp;club_id=269&amp;season=15&amp;MySession=329e80092a7da35ed835669d19a3d0bc&amp;cur_page=2" class="DBTable">&#xA0;[Volgende]&#xA0;</a>  </td><td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td></tr><tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="5" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table><small>Aantal: 34</small><br/></div></td><td style="width: 5px;">&#xA0;</td></tr></table></td></tr></table></div><div id="footer"><table class="Interclubs_Bottom" cellpadding="0" cellspacing="0" border="0"><tr><td>&#xA9; 2001-2016&#xA0;/&#xA0;<a class="Interclubs_Bottom" href="mailto:gaetan@frenoy.net">Ga&#xEB;tan Frenoy</a> &amp; <a class="Interclubs_Bottom" href="http://www.vttl.be" target="_blank">Vlaamse Tafeltennisliga</a>&#xA0;-&#xA0;<a class="Interclubs_Bottom" href="?legal=1">Wettelijk bericht</a><script type="text/javascript" src="/js/i18n.js"/><script type="text/javascript" src="/js/main.js"/><script type="text/javascript" src="/js/table.js"/><script type="text/javascript" src="/js/jquery.dimensions.js"/><script type="text/javascript" src="/js/jquery.hoverIntent.js"/><script type="text/javascript" src="/js/jquery.cluetip.js"/><script type="text/javascript" src="/js/autosuggest.js"/><script type="text/javascript"><![CDATA[
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.vttl.be/" : "http://stats.vttl.be/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "data.js' type='text/javascript'%3E%3C/script%3E"));
+]]></script><script type="text/javascript"><![CDATA[
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "data.php", 2);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+]]></script><noscript><p><img src="http://stats.vttl.be/data.php?idsite=2" style="border:0" alt=""/></p></noscript></td></tr></table></div></body></html>

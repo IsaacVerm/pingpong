@@ -1,0 +1,2057 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<html><head><title>Resultaten - Uitslagen Vlaamse Tafeltennisliga</title><script type="text/javascript" src="/js/jquery.js"/><link rel="stylesheet" type="text/css" href="/css/css.php?club_id=289&amp;default_club_id=289"/><link rel="stylesheet" type="text/css" href="/css/jquery.cluetip.css"/><link rel="stylesheet" type="text/css" href="/css/autosuggest_inquisitor.css"/><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/><link rel="search" type="application/opensearchdescription+xml" title="VTTL Tafeltennis" href="/misc/competitie-vttl.xml"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black"/></head><body class="Interclubs"><a name="top"/><div id="header"><table class="Interclubs_Top_Banner" align="center" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><table align="center" cellspacing="0" cellpadding="0">
+<tr><td class="Interclubs_Top_Banner_Left">&amp;nbsp</td><td class="Interclubs_Top_Banner_Middle"><a href="/?lang=nl"><img border="0" width="248" height="53" src="/images/tables/vide.gif" align="bottom" alt="*"/></a></td><td class="Interclubs_Top_Banner_Right">&amp;nbsp</td></tr></table>
+</td></tr></table>
+<table class="Interclubs_Top_Menu" align="center" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="Interclubs_Top_Menu"><a class="Interclubs_Top_Menu" href="/?menu=0">Home</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=1">Clubs</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=2">Afdelingen</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=3">Kalender</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=4">Resultaten</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=5">Rangschikking</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu_Selected" href="/?menu=6">Leden</a>&#xA0;&#xB7;&#xA0;<a class="Interclubs_Top_Menu" href="/?menu=7">Tornooien</a></td>
+ </tr>
+</table>
+</div><div id="content"><table width="100%" cellpadding="0" cellspacing="0"><tr style="width: 100%;"><td valign="top" style="padding-left:5px;"><div id="leftmenu"><table class="Interclubs_Left_Menu" align="center" cellspacing="0" cellpadding="0">
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Gebruiker </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?login=1&amp;continue_url=menu%3D6%26sel%3D54306%26result%3D1%26category%3D1%26season%3D16">Login</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?register=1&amp;menu=0&amp;continue_url=sel%253D54306%2526result%253D1%2526category%253D1%2526MySession%253D0b914567f54f3bc72e9496eb38b822a7%2526menu%253D6%2526season%253D16">Registratie</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Niveau </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=14&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">KBTTB</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?province=12&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">VTTL</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=13&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">AF</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=2&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Vlaams-Brabant &amp; Br.</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=4&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Antwerpen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=5&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Oost-Vlaanderen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=6&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">West-Vlaanderen</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=7&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Limburg</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=3&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Br. &amp; Brabant Wallon</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=8&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Hainaut</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=9&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Luxembourg</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=10&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Li&#xE8;ge</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?province=11&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Namur</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Seizoen </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=1&amp;sel=54306&amp;result=1&amp;category=1">2000-2001</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=2&amp;sel=54306&amp;result=1&amp;category=1">2001-2002</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=3&amp;sel=54306&amp;result=1&amp;category=1">2002-2003</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=4&amp;sel=54306&amp;result=1&amp;category=1">2003-2004</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=5&amp;sel=54306&amp;result=1&amp;category=1">2004-2005</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=6&amp;sel=54306&amp;result=1&amp;category=1">2005-2006</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=7&amp;sel=54306&amp;result=1&amp;category=1">2006-2007</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=8&amp;sel=54306&amp;result=1&amp;category=1">2007-2008</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=9&amp;sel=54306&amp;result=1&amp;category=1">2008-2009</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=10&amp;sel=54306&amp;result=1&amp;category=1">2009-2010</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=11&amp;sel=54306&amp;result=1&amp;category=1">2010-2011</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=12&amp;sel=54306&amp;result=1&amp;category=1">2011-2012</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=13&amp;sel=54306&amp;result=1&amp;category=1">2012-2013</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=14&amp;sel=54306&amp;result=1&amp;category=1">2013-2014</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=15&amp;sel=54306&amp;result=1&amp;category=1">2014-2015</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?season=16&amp;sel=54306&amp;result=1&amp;category=1">2015-2016</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?season=17&amp;sel=54306&amp;result=1&amp;category=1">2016-2017</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Acties </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/">Terug</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;summary=1">Samengevat</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;stat=1">Statistieken</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;pyramid=1">Klassementspiramide</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?pdf=1&amp;compute_pdf=1&amp;result=1&amp;sel=54306&amp;category=1">Afdrukken</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?card=1&amp;pdf=1&amp;compute_pdf=1&amp;sel=54306&amp;class_category=1">Steekkaart</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Categorie </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?category=1&amp;sel=54306&amp;result=1">Heren</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?category=2&amp;sel=54306&amp;result=1">Dames</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Statistieken </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;summary=1">Leden per club</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;stat=1">Statistieken</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?menu=6&amp;pyramid=1">Klassementspiramide</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Galerij </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?gallery=1">Foto's</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/">Resultaten</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Zoeken </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu_Selected">   <form method="GET" action="/index.php" style="margin: 0px; width:100%;">&#xD;
+     <input type="hidden" name="menu" value="6"/>&#xD;
+     <input class="search" id="player_search" name="player_search" type="text" size="30" maxlength="30" title="Typ de naam of het aansluitingsnummer van de te zoeken speler en druk op [ENTER]" onmouseover="this.className='search_hover';" onmouseout="this.className='search';" value=""/>&#xD;
+     <input type="hidden" name="modif" value="1"/>&#xD;
+   </form></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr><tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%; vertical-align: top;"> <tr> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/l_subt.gif" style="width: 19px; height: 17px; vertical-align: top;" alt="*"/> </th> <th style="width: 100%;">Taal </th> <th style="width: 19px; vertical-align: top;"> <img src="/images/tables/vttl/r_subt.gif" style="width: 19px; height: 17px;" alt="*"/> </th> </tr></table></th></tr> <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?lang=fr&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Frans</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu_Selected"><a class="Interclubs_Left_Menu_Selected" href="/?lang=nl&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Nederlands</a></td>
+ </tr>
+ <tr>
+<td class="Interclubs_Left_Menu"><a class="Interclubs_Left_Menu" href="/?lang=en&amp;menu=6&amp;sel=54306&amp;result=1&amp;category=1&amp;season=16">Engels</a></td>
+ </tr>
+<tr><th class="Interclubs_Left_Menu"><table cellpadding="0" cellspacing="0" style="width:100%;"><tr><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/bl_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th><th style="width: 100%; height: 8px;"><img src="/images/tables/vide.gif" alt="*"/></th><th style="width: 8px; height: 8px;"><img src="/images/tables/vttl/br_subt.gif" style="width: 8px; height: 8px;" alt="*"/></th></tr></table></th></tr><tr><th class="Interclubs_Left_Menu_Separator"><img src="/images/tables/vide.gif" alt="*"/></th></tr></table>
+</div></td><td style="width:100%;" valign="top"><table class="mainarea" align="center" style="width:100%; margin-top:5px"><tr><td style="width: 5px;">&#xA0;</td><td><div id="mainarea"><table width="100%"><tr><td width="50%" valign="top">
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="1" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1"><div style="float: right; margin-left: -32px; width: 32px;"><a href="http://competitie.vttl.be/speler/54306"><img border="0" src="/images/properties.png" align="middle" alt="*"/></a></div><div style="font-weight: bold; width: 100%;"><div style="font-size: 175%;">PIETER</div><div style="font-size: 210%;">DE BUYSSER</div></div></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Seizoen 2015-2016</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1"><img alt="DE BUYSSER PIETER" src="http://www.gravatar.com/avatar/4872958884386aa4087cfdcfd4fe75be?d=http%3A%2F%2Fcompetitie.vttl.be%2Fimages%2Fvttl%2FNo_Photo_M.jpg&amp;s=130&amp;r=g" border="0"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Index&#xA0;:&#xA0;517662</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Rangschikking&#xA0;:&#xA0;D0</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Club&#xA0;:&#xA0;OVL059&#xA0;-&#xA0;TTC  Maldegem</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="col1">Categorie&#xA0;:&#xA0;Juniors</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="1" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table>Samenvatting per klassement
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="4" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <th class="DBTable">Teg.</th>
+  <th class="DBTable">Ov.</th>
+  <th class="DBTable">Ver.</th>
+  <th class="DBTable">Perc.</th>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">C0</td>
+  <td class="DBTable" field="Ov.">0</td>
+  <td class="DBTable" field="Ver.">2</td>
+  <td class="DBTable" field="Perc.">0 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">C2</td>
+  <td class="DBTable" field="Ov.">1</td>
+  <td class="DBTable" field="Ver.">6</td>
+  <td class="DBTable" field="Perc.">14.29 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">C4</td>
+  <td class="DBTable" field="Ov.">3</td>
+  <td class="DBTable" field="Ver.">3</td>
+  <td class="DBTable" field="Perc.">50 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">C6</td>
+  <td class="DBTable" field="Ov.">4</td>
+  <td class="DBTable" field="Ver.">2</td>
+  <td class="DBTable" field="Perc.">66.67 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">D0</td>
+  <td class="DBTable" field="Ov.">7</td>
+  <td class="DBTable" field="Ver.">6</td>
+  <td class="DBTable" field="Perc.">53.85 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">D2</td>
+  <td class="DBTable" field="Ov.">12</td>
+  <td class="DBTable" field="Ver.">3</td>
+  <td class="DBTable" field="Perc.">80 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">D4</td>
+  <td class="DBTable" field="Ov.">23</td>
+  <td class="DBTable" field="Ver.">3</td>
+  <td class="DBTable" field="Perc.">88.46 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">D6</td>
+  <td class="DBTable" field="Ov.">13</td>
+  <td class="DBTable" field="Ver.">0</td>
+  <td class="DBTable" field="Perc.">100 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">E0</td>
+  <td class="DBTable" field="Ov.">6</td>
+  <td class="DBTable" field="Ver.">1</td>
+  <td class="DBTable" field="Perc.">85.71 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">E2</td>
+  <td class="DBTable" field="Ov.">2</td>
+  <td class="DBTable" field="Ver.">0</td>
+  <td class="DBTable" field="Perc.">100 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg.">NG</td>
+  <td class="DBTable" field="Ov.">1</td>
+  <td class="DBTable" field="Ver.">0</td>
+  <td class="DBTable" field="Perc.">100 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Teg."><b>Totaal</b></td>
+  <td class="DBTable" field="Ov.">72</td>
+  <td class="DBTable" field="Ver.">26</td>
+  <td class="DBTable" field="Perc.">73.47 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="4" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table></td><td width="50%" valign="top">Samengevat - Wedstrijd
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="2" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Percent Ov.</td>
+  <td class="DBTable" field="c2">73.47 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gespeeld</td>
+  <td class="DBTable" field="c2">98</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gewonnen</td>
+  <td class="DBTable" field="c2">72</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Verloren</td>
+  <td class="DBTable" field="c2">26</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1"><span style="vertical-align: middle;">Absolute punten&#xA0;<a class="DBTable" href="http://tabt.frenoy.net/index.php?l=NL&amp;display=TabTFAQ_NL"><img src="/images/icon_help.png" align="absmiddle" border="0"/>&#xA0;</a></span></td>
+  <td class="DBTable" field="c2">522</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1"><span style="vertical-align: middle;">Relatieve punten&#xA0;<a class="DBTable" href="http://tabt.frenoy.net/index.php?l=NL&amp;display=TabTFAQ_NL"><img src="/images/icon_help.png" align="absmiddle" border="0"/>&#xA0;</a></span></td>
+  <td class="DBTable" field="c2">2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1"><span style="vertical-align: middle;">ELO punten&#xA0;<a class="DBTable" href="http://tabt.frenoy.net/index.php?l=NL&amp;display=MethodePointsELO_NL"><img src="/images/icon_help.png" align="absmiddle" border="0"/>&#xA0;</a></span></td>
+  <td class="DBTable" field="c2">1488</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="2" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table>Samengevat - Sets
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="2" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Percent</td>
+  <td class="DBTable" field="c2">65.49 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gespeeld</td>
+  <td class="DBTable" field="c2">368</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gewonnen</td>
+  <td class="DBTable" field="c2">241</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Verloren</td>
+  <td class="DBTable" field="c2">127</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Per wedstrijd</td>
+  <td class="DBTable" field="c2">3.76</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="2" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table>Verdeling van de scores (Sets):
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="2" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <th class="DBTable">Score</th>
+  <th class="DBTable">Aantal</th>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">3&#xA0;-&#xA0;0</td>
+  <td class="DBTable" field="Aantal">36</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">3&#xA0;-&#xA0;1</td>
+  <td class="DBTable" field="Aantal">23</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">3&#xA0;-&#xA0;2</td>
+  <td class="DBTable" field="Aantal">13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">0&#xA0;-&#xA0;3</td>
+  <td class="DBTable" field="Aantal">9</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">1&#xA0;-&#xA0;3</td>
+  <td class="DBTable" field="Aantal">9</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Score">2&#xA0;-&#xA0;3</td>
+  <td class="DBTable" field="Aantal">8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="2" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table>Resultaat in de belle:
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="3" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gespeelde belles</td>
+  <td class="DBTable" field="c2">21</td>
+  <td class="DBTable" field="c3">21.4 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Gewonnen belles</td>
+  <td class="DBTable" field="c2">13</td>
+  <td class="DBTable" field="c3">61.9 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="c1">Verloren belles</td>
+  <td class="DBTable" field="c2">8</td>
+  <td class="DBTable" field="c3">38.1 %</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="3" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table></td></tr></table><table width="100%"><tr><td width="50%" valign="top">&#xA0;</td><td width="50%" valign="top"/></tr></table><script type="text/javascript"><![CDATA[
+function redraw_elo_plot()
+{
+  var base_url = 'players_elo_graph.php?lang=nl&player_id=54306&from=#START_SEASON#&to=16&show=#ELO_LIST#&show_coef=#SHOW_COEF#';
+  var graph = document.getElementById('elo_graph');
+  var season = document.getElementById('start_graph');
+  var show_coef = document.getElementById('show_coef');
+  var elo_list = '';
+  var i;
+  for (i=7; i<=16; i++)
+  {
+    var show_elo = document.getElementById('show_elo'+i);
+    if (show_elo && show_elo.checked)
+    {
+      elo_list += (elo_list==''?'':',') + i;
+    }
+  }
+  if (elo_list == '')
+  {
+    elo_list = '7';
+  }
+  base_url  = base_url.replace(/(#START_SEASON#)/, season ? season.value : '16');
+  base_url  = base_url.replace(/(#SHOW_COEF#)/, show_coef && show_coef.checked ? '1' : '0');
+  graph.src = base_url.replace(/(#ELO_LIST#)/, elo_list);
+}
+function toggle_show_points_in_table()
+{
+  var show_points_in_table = document.getElementById('show_points_in_table');
+  location.href = '/?lang=nl&menu=6&result=1&sel=54306&category=1&show_elo_in_table=' + show_points_in_table.value;
+}
+]]></script>Evolutie ELO punten
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="2" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" valign="top" field="c2"><table width="100%"><tr><td>Begin van het seizoen</td><td>1312</td></tr><tr><td>Minimum op 19-09-15</td><td>1312</td></tr><tr><td>Maximum op 05-09-16</td><td>1511</td></tr><tr><td>Vandaag</td><td>1511</td></tr></table><br/><hr/><br/><center><table style="width: 100%; margin:0px;" cellpadding="0" cellspacing="0"><tr><td>Start seizoen grafiek</td><td><select id="start_graph" onchange="redraw_elo_plot();"><option value="7">2006-2007</option><option value="8">2007-2008</option><option value="9">2008-2009</option><option value="10">2009-2010</option><option value="11">2010-2011</option><option value="12">2011-2012</option><option value="13">2012-2013</option><option value="14">2013-2014</option><option value="15">2014-2015</option><option value="16" selected="selected">2015-2016</option></select></td></tr><tr><td>Punten in uitslagenlijst ?</td><td><select id="show_points_in_table" onchange="toggle_show_points_in_table();"><option value="1" selected="selected">Ja</option><option value="0">Neen</option></select></td></tr></table></center><br/><hr/><br/><div style="text-align: center;"><img src="/images/icon_help.png" align="absmiddle" border="0"/>&#xA0;<a class="DBTable" style="vertical-align: middle;" href="http://tabt.frenoy.net/index.php?l=NL&amp;display=MethodePointsELO_NL">Uitleg " ELO-punten "</a></div></td>
+  <td class="DBTable" valign="top" field="c1"><img id="elo_graph" src="players_elo_graph.php?lang=nl&amp;player_id=54306&amp;from=16&amp;to=16&amp;show=7&amp;show_coef=" border="0" align="absmiddle"/></td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="2" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table>Ontmoetingslijst<div id="match_list">
+<table class="DBTable" can_add="true" cellspacing="0" cellpadding="0" can_delete="true">
+<tr class="DBTable">
+ <td width="11" height="11" class="DBTable_btl"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td colspan="11" class="DBTable_bt"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+ <td width="11" height="11" class="DBTable_btr"><img src="/images/tables/vide.gif" border="0" width="11" height="11" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <th class="DBTable">Datum</th>
+  <th class="DBTable">Type</th>
+  <th class="DBTable">Match of<br/>Tornooi</th>
+  <th class="DBTable">Ploeg of<br/>Reeks</th>
+  <th class="DBTable">Tegen<br/>partij</th>
+  <th class="DBTable">Naam tegenstander</th>
+  <th class="DBTable">Kl.</th>
+  <th class="DBTable">ELO<br/>Teg.</th>
+  <th class="DBTable">&#xA0;Sets&#xA0;</th>
+  <th class="DBTable">ELO</th>
+  <th class="DBTable">Diff.</th>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-19</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167270&amp;&amp;detail=1&amp;list=1&amp;menu=4">01/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=61048&amp;category=1&amp;show_elo_in_table=1">CHRISTIAN DE BUYSER</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1180</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1312</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-19</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167270&amp;&amp;detail=1&amp;list=1&amp;menu=4">01/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=51697&amp;category=1&amp;show_elo_in_table=1">PHILIPPE BOITSIOS</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1007</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1322</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-19</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167270&amp;&amp;detail=1&amp;list=1&amp;menu=4">01/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13716&amp;category=1&amp;show_elo_in_table=1">STEVEN DE PREST</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1229</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1326</td>
+  <td class="DBTable" field="Diff.">+13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-19</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167270&amp;&amp;detail=1&amp;list=1&amp;menu=4">01/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=31769&amp;category=1&amp;show_elo_in_table=1">TIM VANMARSNILLE</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1387</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1339</td>
+  <td class="DBTable" field="Diff.">+23</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-26</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167668&amp;&amp;detail=1&amp;list=1&amp;menu=4">02/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=31692&amp;category=1&amp;show_elo_in_table=1">WERNER COCQUYT</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">962</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1362</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-26</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167668&amp;&amp;detail=1&amp;list=1&amp;menu=4">02/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58714&amp;category=1&amp;show_elo_in_table=1">JAN VAN DER WOUDEN</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1063</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1364</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-26</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167668&amp;&amp;detail=1&amp;list=1&amp;menu=4">02/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9220&amp;category=1&amp;show_elo_in_table=1">RUDIGER NUYTINCK</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1030</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1368</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-26</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=167668&amp;&amp;detail=1&amp;list=1&amp;menu=4">02/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13749&amp;category=1&amp;show_elo_in_table=1">XAVIER QUESADA</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1046</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1371</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Zomergem</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=54471&amp;category=1&amp;show_elo_in_table=1">SANDER CREEL</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1136</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1375</td>
+  <td class="DBTable" field="Diff.">+6</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Stekene</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=53640&amp;category=1&amp;show_elo_in_table=1">JENS VAN HOVE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1142</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1381</td>
+  <td class="DBTable" field="Diff.">+6</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Merelbeke</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=39276&amp;category=1&amp;show_elo_in_table=1">SARA VAN BOSTRAETEN</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1359</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1386</td>
+  <td class="DBTable" field="Diff.">+17</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Rooigem-Gent</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49819&amp;category=1&amp;show_elo_in_table=1">BASTEN ANECA</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1680</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1403</td>
+  <td class="DBTable" field="Diff.">-4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Rooigem-Gent</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49827&amp;category=1&amp;show_elo_in_table=1">SVEN DEMOL</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1319</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1400</td>
+  <td class="DBTable" field="Diff.">-21</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Stekene</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=50097&amp;category=1&amp;show_elo_in_table=1">LIAM VERSCHUREN</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1364</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1378</td>
+  <td class="DBTable" field="Diff.">-19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-09-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2091&amp;s_id=127">kwalificatie jeugdliga OVL 15-...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1 heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Sint-Niklase</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=42485&amp;category=1&amp;show_elo_in_table=1">JENS ANDRIES</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1314</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1359</td>
+  <td class="DBTable" field="Diff.">+14</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-03</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168429&amp;&amp;detail=1&amp;list=1&amp;menu=4">03/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8432&amp;category=1&amp;show_elo_in_table=1">WOUTER DESSEIN</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">998</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1374</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-03</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168429&amp;&amp;detail=1&amp;list=1&amp;menu=4">03/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=15527&amp;category=1&amp;show_elo_in_table=1">ARNO THIELENS</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1016</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1376</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-03</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168429&amp;&amp;detail=1&amp;list=1&amp;menu=4">03/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8461&amp;category=1&amp;show_elo_in_table=1">WOUTER VAN HECKE</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1016</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1379</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-03</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168429&amp;&amp;detail=1&amp;list=1&amp;menu=4">03/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8434&amp;category=1&amp;show_elo_in_table=1">GUNTHER EECKHOUT</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1180</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1382</td>
+  <td class="DBTable" field="Diff.">+7</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168755&amp;&amp;detail=1&amp;list=1&amp;menu=4">04/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_D&amp;club_id=195">Galmaarden D</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=38045&amp;category=1&amp;show_elo_in_table=1">JORAM TIELEMANS</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">976</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1389</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168755&amp;&amp;detail=1&amp;list=1&amp;menu=4">04/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_D&amp;club_id=195">Galmaarden D</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=3127&amp;category=1&amp;show_elo_in_table=1">PHILIPPE CUSTERS</a></td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="ELOTeg.">752</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1391</td>
+  <td class="DBTable" field="Diff.">+0</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168755&amp;&amp;detail=1&amp;list=1&amp;menu=4">04/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_D&amp;club_id=195">Galmaarden D</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=3146&amp;category=1&amp;show_elo_in_table=1">JOHAN SOMERS</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1022</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1392</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=168755&amp;&amp;detail=1&amp;list=1&amp;menu=4">04/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_D&amp;club_id=195">Galmaarden D</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=36645&amp;category=1&amp;show_elo_in_table=1">JEROEN SCHAILLEE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1091</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1394</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-24</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=170117&amp;&amp;detail=1&amp;list=1&amp;menu=4">06/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8449&amp;category=1&amp;show_elo_in_table=1">KOEN PUYSTIENS</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1578</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1398</td>
+  <td class="DBTable" field="Diff.">-8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-24</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=170117&amp;&amp;detail=1&amp;list=1&amp;menu=4">06/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58501&amp;category=1&amp;show_elo_in_table=1">KRISTOF NEYT</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1573</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1390</td>
+  <td class="DBTable" field="Diff.">-8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-24</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=170117&amp;&amp;detail=1&amp;list=1&amp;menu=4">06/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9322&amp;category=1&amp;show_elo_in_table=1">BART PERSOONE</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1641</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1382</td>
+  <td class="DBTable" field="Diff.">-6</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-10-24</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=170117&amp;&amp;detail=1&amp;list=1&amp;menu=4">06/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=6858&amp;category=1&amp;show_elo_in_table=1">PATRICK PLASSCHAERT</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1595</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1376</td>
+  <td class="DBTable" field="Diff.">-7</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=178149&amp;&amp;detail=1&amp;list=1&amp;menu=4">07/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_G&amp;club_id=40">Rooigem-Gent G</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=3431&amp;category=1&amp;show_elo_in_table=1">VINCENT GHEYSENS</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1114</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1369</td>
+  <td class="DBTable" field="Diff.">+5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=178149&amp;&amp;detail=1&amp;list=1&amp;menu=4">07/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_G&amp;club_id=40">Rooigem-Gent G</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=4999&amp;category=1&amp;show_elo_in_table=1">RITA LOMBET</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">983</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1374</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=178149&amp;&amp;detail=1&amp;list=1&amp;menu=4">07/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_G&amp;club_id=40">Rooigem-Gent G</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8433&amp;category=1&amp;show_elo_in_table=1">STEVEN DULLAERT</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1352</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1377</td>
+  <td class="DBTable" field="Diff.">-19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=178149&amp;&amp;detail=1&amp;list=1&amp;menu=4">07/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_G&amp;club_id=40">Rooigem-Gent G</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8710&amp;category=1&amp;show_elo_in_table=1">FRANK VAN HOECKE</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1279</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1358</td>
+  <td class="DBTable" field="Diff.">+13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-14</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=179617&amp;&amp;detail=1&amp;list=1&amp;menu=4">08/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=50017&amp;category=1&amp;show_elo_in_table=1">ROBIN MOENTJENS</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1099</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1370</td>
+  <td class="DBTable" field="Diff.">+5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-14</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=179617&amp;&amp;detail=1&amp;list=1&amp;menu=4">08/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8413&amp;category=1&amp;show_elo_in_table=1">GUY COENE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1145</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1375</td>
+  <td class="DBTable" field="Diff.">-30</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-14</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=179617&amp;&amp;detail=1&amp;list=1&amp;menu=4">08/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8198&amp;category=1&amp;show_elo_in_table=1">KURT VERVAET</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1285</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1345</td>
+  <td class="DBTable" field="Diff.">+13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-21</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=181625&amp;&amp;detail=1&amp;list=1&amp;menu=4">09/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8883&amp;category=1&amp;show_elo_in_table=1">FILIP LEBRUN</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1390</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1358</td>
+  <td class="DBTable" field="Diff.">+20</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-21</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=181625&amp;&amp;detail=1&amp;list=1&amp;menu=4">09/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8855&amp;category=1&amp;show_elo_in_table=1">KRIS D'HONDT</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1188</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1378</td>
+  <td class="DBTable" field="Diff.">+8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-21</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=181625&amp;&amp;detail=1&amp;list=1&amp;menu=4">09/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8888&amp;category=1&amp;show_elo_in_table=1">MARTIN OOSTERLINCK</a></td>
+  <td class="DBTable" field="Kl.">E2</td>
+  <td class="DBTable" field="ELOTeg.">828</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1386</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-21</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=181625&amp;&amp;detail=1&amp;list=1&amp;menu=4">09/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=61672&amp;category=1&amp;show_elo_in_table=1">RAF DANIELS</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1264</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1387</td>
+  <td class="DBTable" field="Diff.">+12</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Maldegem</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58628&amp;category=1&amp;show_elo_in_table=1">NIKOLAI BAKLICHAROV</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">1406</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1400</td>
+  <td class="DBTable" field="Diff.">-18</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Stekene</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=50097&amp;category=1&amp;show_elo_in_table=1">LIAM VERSCHUREN</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1418</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1382</td>
+  <td class="DBTable" field="Diff.">+19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Rooigem-Gent</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49819&amp;category=1&amp;show_elo_in_table=1">BASTEN ANECA</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1663</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1401</td>
+  <td class="DBTable" field="Diff.">-5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Stekene</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=53640&amp;category=1&amp;show_elo_in_table=1">JENS VAN HOVE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1210</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1396</td>
+  <td class="DBTable" field="Diff.">-28</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Rooigem-Gent</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49827&amp;category=1&amp;show_elo_in_table=1">SVEN DEMOL</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1438</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1368</td>
+  <td class="DBTable" field="Diff.">-16</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Merelbeke</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=39276&amp;category=1&amp;show_elo_in_table=1">SARA VAN BOSTRAETEN</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1411</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1352</td>
+  <td class="DBTable" field="Diff.">-17</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Maldegem</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58629&amp;category=1&amp;show_elo_in_table=1">GEORGI BAKLICHAROV</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1370</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1335</td>
+  <td class="DBTable" field="Diff.">+16</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-22</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2196&amp;s_id=127">2e fase jeugdliga OVL 15-16</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren 1</td>
+  <td class="DBTable" field="Tegenpartij">Rooigem-Gent</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=4931&amp;category=1&amp;show_elo_in_table=1">KOEN VANDECAVEYE</a></td>
+  <td class="DBTable" field="Kl.">C0</td>
+  <td class="DBTable" field="ELOTeg.">1758</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1351</td>
+  <td class="DBTable" field="Diff.">-3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-28</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=183329&amp;&amp;detail=1&amp;list=1&amp;menu=4">10/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_F&amp;club_id=40">Rooigem-Gent F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13170&amp;category=1&amp;show_elo_in_table=1">BERT VAN REETH</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1190</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1348</td>
+  <td class="DBTable" field="Diff.">+9</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-28</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=183329&amp;&amp;detail=1&amp;list=1&amp;menu=4">10/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_F&amp;club_id=40">Rooigem-Gent F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=11006&amp;category=1&amp;show_elo_in_table=1">FREEK VERDONCK</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1336</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1357</td>
+  <td class="DBTable" field="Diff.">+17</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-28</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=183329&amp;&amp;detail=1&amp;list=1&amp;menu=4">10/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_F&amp;club_id=40">Rooigem-Gent F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49827&amp;category=1&amp;show_elo_in_table=1">SVEN DEMOL</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1477</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1374</td>
+  <td class="DBTable" field="Diff.">-10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-11-28</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=183329&amp;&amp;detail=1&amp;list=1&amp;menu=4">10/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_F&amp;club_id=40">Rooigem-Gent F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8433&amp;category=1&amp;show_elo_in_table=1">STEVEN DULLAERT</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1334</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1364</td>
+  <td class="DBTable" field="Diff.">+17</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-12-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=185011&amp;&amp;detail=1&amp;list=1&amp;menu=4">11/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=47367&amp;category=1&amp;show_elo_in_table=1">BJORN BRAET</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">975</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1381</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-12-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=185011&amp;&amp;detail=1&amp;list=1&amp;menu=4">11/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13375&amp;category=1&amp;show_elo_in_table=1">MARNIX DE ROO</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">967</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1383</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-12-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=185011&amp;&amp;detail=1&amp;list=1&amp;menu=4">11/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=68216&amp;category=1&amp;show_elo_in_table=1">ROY METSEMAKERS</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1118</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1385</td>
+  <td class="DBTable" field="Diff.">+5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2015-12-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=185011&amp;&amp;detail=1&amp;list=1&amp;menu=4">11/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=47368&amp;category=1&amp;show_elo_in_table=1">PIETER OLIEUX</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1248</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1390</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2204&amp;s_id=127">Provinciaal Kampioenschap OVL ...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Madelon</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=41567&amp;category=1&amp;show_elo_in_table=1">KURT DE HERTOGH</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1260</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1400</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-10</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2204&amp;s_id=127">Provinciaal Kampioenschap OVL ...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Sint-Niklase</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=42485&amp;category=1&amp;show_elo_in_table=1">JENS ANDRIES</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1191</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1410</td>
+  <td class="DBTable" field="Diff.">-29</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=186560&amp;&amp;detail=1&amp;list=1&amp;menu=4">12/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8616&amp;category=1&amp;show_elo_in_table=1">KOEN OSTYN</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">945</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1381</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=186560&amp;&amp;detail=1&amp;list=1&amp;menu=4">12/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=51697&amp;category=1&amp;show_elo_in_table=1">PHILIPPE BOITSIOS</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1055</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1383</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=186560&amp;&amp;detail=1&amp;list=1&amp;menu=4">12/019</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=42">De Pinte B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13716&amp;category=1&amp;show_elo_in_table=1">STEVEN DE PREST</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1266</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1386</td>
+  <td class="DBTable" field="Diff.">+11</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=188077&amp;&amp;detail=1&amp;list=1&amp;menu=4">13/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58714&amp;category=1&amp;show_elo_in_table=1">JAN VAN DER WOUDEN</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1232</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1397</td>
+  <td class="DBTable" field="Diff.">+9</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=188077&amp;&amp;detail=1&amp;list=1&amp;menu=4">13/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=54073&amp;category=1&amp;show_elo_in_table=1">DIDIER BRACKE</a></td>
+  <td class="DBTable" field="Kl.">NG</td>
+  <td class="DBTable" field="ELOTeg.">461</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1406</td>
+  <td class="DBTable" field="Diff.">+0</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=188077&amp;&amp;detail=1&amp;list=1&amp;menu=4">13/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9220&amp;category=1&amp;show_elo_in_table=1">RUDIGER NUYTINCK</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1061</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1406</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=188077&amp;&amp;detail=1&amp;list=1&amp;menu=4">13/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_F&amp;club_id=52">Merelbeke F</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8984&amp;category=1&amp;show_elo_in_table=1">STEFAAN MERTENS</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1172</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1409</td>
+  <td class="DBTable" field="Diff.">+6</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-30</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=189778&amp;&amp;detail=1&amp;list=1&amp;menu=4">14/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8428&amp;category=1&amp;show_elo_in_table=1">SEPPE DECLERCQ</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1490</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>1&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1416</td>
+  <td class="DBTable" field="Diff.">-13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-30</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=189778&amp;&amp;detail=1&amp;list=1&amp;menu=4">14/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8434&amp;category=1&amp;show_elo_in_table=1">GUNTHER EECKHOUT</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1104</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1402</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-30</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=189778&amp;&amp;detail=1&amp;list=1&amp;menu=4">14/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=58663&amp;category=1&amp;show_elo_in_table=1">GEORGE CHAPODZE</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1399</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1406</td>
+  <td class="DBTable" field="Diff.">-19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-01-30</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=189778&amp;&amp;detail=1&amp;list=1&amp;menu=4">14/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_E&amp;club_id=36">TTC Gent E</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=13593&amp;category=1&amp;show_elo_in_table=1">LARS DE NUL</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1410</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1387</td>
+  <td class="DBTable" field="Diff.">+18</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2258&amp;s_id=127">Vlaamse Kampioenschappen A-B-C...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Meerdaal</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=5324&amp;category=1&amp;show_elo_in_table=1">ALEXANDER DENAUW</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1331</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1404</td>
+  <td class="DBTable" field="Diff.">-22</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2258&amp;s_id=127">Vlaamse Kampioenschappen A-B-C...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Brugge</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=43517&amp;category=1&amp;show_elo_in_table=1">THIJS VAN LANDSCHOOT</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1262</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1382</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2258&amp;s_id=127">Vlaamse Kampioenschappen A-B-C...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Morata</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=42855&amp;category=1&amp;show_elo_in_table=1">GLENN MENTENS</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1524</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1392</td>
+  <td class="DBTable" field="Diff.">-11</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-07</td>
+  <td class="DBTable" field="Type"><span official="Y">Torn.</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="/?menu=7&amp;viewresults=1&amp;t_id=2258&amp;s_id=127">Vlaamse Kampioenschappen A-B-C...</a></td>
+  <td class="DBTable" field="Ploeg ofReeks">Heren D</td>
+  <td class="DBTable" field="Tegenpartij">Dylan Berlaar</td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=49949&amp;category=1&amp;show_elo_in_table=1">STANNY BRITTING</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1231</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1381</td>
+  <td class="DBTable" field="Diff.">+8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-20</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=192517&amp;&amp;detail=1&amp;list=1&amp;menu=4">16/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=276">Madelon B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=4935&amp;category=1&amp;show_elo_in_table=1">WILLY DELATTRE</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1189</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1389</td>
+  <td class="DBTable" field="Diff.">+7</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-20</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=192517&amp;&amp;detail=1&amp;list=1&amp;menu=4">16/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=276">Madelon B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=31654&amp;category=1&amp;show_elo_in_table=1">FRANCOIS HEYMANS</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">899</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1396</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-20</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=192517&amp;&amp;detail=1&amp;list=1&amp;menu=4">16/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=276">Madelon B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=3098&amp;category=1&amp;show_elo_in_table=1">HILAIRE CLEPPE</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1256</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1397</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=194102&amp;&amp;detail=1&amp;list=1&amp;menu=4">17/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=6858&amp;category=1&amp;show_elo_in_table=1">PATRICK PLASSCHAERT</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1535</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1408</td>
+  <td class="DBTable" field="Diff.">+25</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=194102&amp;&amp;detail=1&amp;list=1&amp;menu=4">17/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9274&amp;category=1&amp;show_elo_in_table=1">GREGOIR BASYN</a></td>
+  <td class="DBTable" field="Kl.">C6</td>
+  <td class="DBTable" field="ELOTeg.">1430</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1433</td>
+  <td class="DBTable" field="Diff.">+19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=194102&amp;&amp;detail=1&amp;list=1&amp;menu=4">17/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=4938&amp;category=1&amp;show_elo_in_table=1">RUDY DOUBLET</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1399</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1452</td>
+  <td class="DBTable" field="Diff.">-19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-02-27</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=194102&amp;&amp;detail=1&amp;list=1&amp;menu=4">17/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=235">Knal B</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8449&amp;category=1&amp;show_elo_in_table=1">KOEN PUYSTIENS</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1590</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1434</td>
+  <td class="DBTable" field="Diff.">-8</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-05</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=197397&amp;&amp;detail=1&amp;list=1&amp;menu=4">18/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=37">Meteor A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9138&amp;category=1&amp;show_elo_in_table=1">BRAM GEVAERT</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1706</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1426</td>
+  <td class="DBTable" field="Diff.">-5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-05</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=197397&amp;&amp;detail=1&amp;list=1&amp;menu=4">18/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=37">Meteor A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9137&amp;category=1&amp;show_elo_in_table=1">FREDERIK FLAMAND</a></td>
+  <td class="DBTable" field="Kl.">C0</td>
+  <td class="DBTable" field="ELOTeg.">1671</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>0&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1421</td>
+  <td class="DBTable" field="Diff.">-6</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-05</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=197397&amp;&amp;detail=1&amp;list=1&amp;menu=4">18/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=37">Meteor A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=7980&amp;category=1&amp;show_elo_in_table=1">HANS MOREELS</a></td>
+  <td class="DBTable" field="Kl.">C2</td>
+  <td class="DBTable" field="ELOTeg.">1408</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1416</td>
+  <td class="DBTable" field="Diff.">+17</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-05</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=197397&amp;&amp;detail=1&amp;list=1&amp;menu=4">18/017</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=269">A</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2338_A&amp;club_id=37">Meteor A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9154&amp;category=1&amp;show_elo_in_table=1">JOCHEN NAESSENS</a></td>
+  <td class="DBTable" field="Kl.">C4</td>
+  <td class="DBTable" field="ELOTeg.">1391</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>2&#xA0;-&#xA0;3</b></td>
+  <td class="DBTable" field="ELO">1433</td>
+  <td class="DBTable" field="Diff.">-20</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=199246&amp;&amp;detail=1&amp;list=1&amp;menu=4">19/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9224&amp;category=1&amp;show_elo_in_table=1">PIET SPANHOVE</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">1001</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1413</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=199246&amp;&amp;detail=1&amp;list=1&amp;menu=4">19/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=52038&amp;category=1&amp;show_elo_in_table=1">MARIO BLONDEEL</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">947</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1415</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=199246&amp;&amp;detail=1&amp;list=1&amp;menu=4">19/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8413&amp;category=1&amp;show_elo_in_table=1">GUY COENE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1132</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1416</td>
+  <td class="DBTable" field="Diff.">+4</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-03-12</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=199246&amp;&amp;detail=1&amp;list=1&amp;menu=4">19/024</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=38">Sleidinge C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=7113&amp;category=1&amp;show_elo_in_table=1">LIEN BUYCK</a></td>
+  <td class="DBTable" field="Kl.">D0</td>
+  <td class="DBTable" field="ELOTeg.">1415</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1420</td>
+  <td class="DBTable" field="Diff.">+18</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-09</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=207677&amp;&amp;detail=1&amp;list=1&amp;menu=4">20/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8891&amp;category=1&amp;show_elo_in_table=1">BERT RUYSSEVELDT</a></td>
+  <td class="DBTable" field="Kl.">D6</td>
+  <td class="DBTable" field="ELOTeg.">858</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1439</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-09</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=207677&amp;&amp;detail=1&amp;list=1&amp;menu=4">20/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8899&amp;category=1&amp;show_elo_in_table=1">JORIS VAN HEGHE</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">755</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1439</td>
+  <td class="DBTable" field="Diff.">+0</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-09</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=207677&amp;&amp;detail=1&amp;list=1&amp;menu=4">20/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8855&amp;category=1&amp;show_elo_in_table=1">KRIS D'HONDT</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1360</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1439</td>
+  <td class="DBTable" field="Diff.">+13</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-09</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=207677&amp;&amp;detail=1&amp;list=1&amp;menu=4">20/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_C&amp;club_id=263">KTTC Eikenlo C</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=61672&amp;category=1&amp;show_elo_in_table=1">RAF DANIELS</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1461</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;2</b></td>
+  <td class="DBTable" field="ELO">1453</td>
+  <td class="DBTable" field="Diff.">+19</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=209671&amp;&amp;detail=1&amp;list=1&amp;menu=4">21/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=39">Sterke Stut A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8739&amp;category=1&amp;show_elo_in_table=1">MAARTEN CLERINX</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">1018</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1472</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=209671&amp;&amp;detail=1&amp;list=1&amp;menu=4">21/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=39">Sterke Stut A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=39326&amp;category=1&amp;show_elo_in_table=1">BRAM DE SMET</a></td>
+  <td class="DBTable" field="Kl.">E0</td>
+  <td class="DBTable" field="ELOTeg.">1022</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1474</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=209671&amp;&amp;detail=1&amp;list=1&amp;menu=4">21/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=39">Sterke Stut A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8774&amp;category=1&amp;show_elo_in_table=1">PIETER PIEN</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1328</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1475</td>
+  <td class="DBTable" field="Diff.">+10</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-16</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=209671&amp;&amp;detail=1&amp;list=1&amp;menu=4">21/023</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=39">Sterke Stut A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8750&amp;category=1&amp;show_elo_in_table=1">JELLE DE SUTTER</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1133</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1485</td>
+  <td class="DBTable" field="Diff.">+3</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=212639&amp;&amp;detail=1&amp;list=1&amp;menu=4">22/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=9285&amp;category=1&amp;show_elo_in_table=1">THIERRY DAUWE</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1071</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1488</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=212639&amp;&amp;detail=1&amp;list=1&amp;menu=4">22/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=8809&amp;category=1&amp;show_elo_in_table=1">MARC OLIEUX</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">891</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;1</b></td>
+  <td class="DBTable" field="ELO">1490</td>
+  <td class="DBTable" field="Diff.">+1</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=212639&amp;&amp;detail=1&amp;list=1&amp;menu=4">22/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=47367&amp;category=1&amp;show_elo_in_table=1">BJORN BRAET</a></td>
+  <td class="DBTable" field="Kl.">D4</td>
+  <td class="DBTable" field="ELOTeg.">1078</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1490</td>
+  <td class="DBTable" field="Diff.">+2</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr class="DBTable">
+  <td class="DBTable_bl" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+  <td class="DBTable_first" field="Datum">2016-04-23</td>
+  <td class="DBTable" field="Type"><span official="Y">Heren</span></td>
+  <td class="DBTable" field="Match ofTornooi"><a class="DBTable" href="?sel=212639&amp;&amp;detail=1&amp;list=1&amp;menu=4">22/022</a></td>
+  <td class="DBTable" field="Ploeg ofReeks"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_B&amp;club_id=269">B</a></td>
+  <td class="DBTable" field="Tegenpartij"><a class="DBTable" href="/?menu=4&amp;perteam=1&amp;div_id=2339_A&amp;club_id=283">Tass A</a></td>
+  <td class="DBTable" field="Naam tegenstander"><a class="DBTable" href="/?menu=6&amp;result=1&amp;sel=47368&amp;category=1&amp;show_elo_in_table=1">PIETER OLIEUX</a></td>
+  <td class="DBTable" field="Kl.">D2</td>
+  <td class="DBTable" field="ELOTeg.">1220</td>
+  <td class="DBTable" field="&#xA0;Sets&#xA0;"><b>3&#xA0;-&#xA0;0</b></td>
+  <td class="DBTable" field="ELO">1492</td>
+  <td class="DBTable" field="Diff.">+5</td>
+  <td class="DBTable_br" width="11"><img src="/images/tables/vide.gif" border="0" alt="*"/></td>
+</tr>
+<tr valign="top">
+  <td width="11" height="18" class="DBTable_bbl"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td colspan="11" class="DBTable_bb" width="100%"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+  <td width="11" height="18" class="DBTable_bbr"><img src="/images/tables/vide.gif" border="0" height="18" width="11" alt="*"/></td>
+</tr></table></div><table width="100%"><td align="left">Aantal=98</td><td align="right"><small>Laatste update van de resultaten : 2016-09-05 22:48:37<br/></small><a class="Interclubs_Bottom" href="/?menu=6&amp;sel=54306&amp;season=16&amp;result=1&amp;category=1&amp;refresh=1">Nu de resultaten opnieuw berekenen</a></td></table></div></td><td style="width: 5px;">&#xA0;</td></tr></table></td></tr></table></div><div id="footer"><table class="Interclubs_Bottom" cellpadding="0" cellspacing="0" border="0"><tr><td>&#xA9; 2001-2016&#xA0;/&#xA0;<a class="Interclubs_Bottom" href="mailto:gaetan@frenoy.net">Ga&#xEB;tan Frenoy</a> &amp; <a class="Interclubs_Bottom" href="http://www.vttl.be" target="_blank">Vlaamse Tafeltennisliga</a>&#xA0;-&#xA0;<a class="Interclubs_Bottom" href="?legal=1">Wettelijk bericht</a><script type="text/javascript" src="/js/i18n.js"/><script type="text/javascript" src="/js/main.js"/><script type="text/javascript" src="/js/table.js"/><script type="text/javascript" src="/js/jquery.dimensions.js"/><script type="text/javascript" src="/js/jquery.hoverIntent.js"/><script type="text/javascript" src="/js/jquery.cluetip.js"/><script type="text/javascript" src="/js/autosuggest.js"/><script type="text/javascript"><![CDATA[
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.vttl.be/" : "http://stats.vttl.be/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "data.js' type='text/javascript'%3E%3C/script%3E"));
+]]></script><script type="text/javascript"><![CDATA[
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "data.php", 2);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+]]></script><noscript><p><img src="http://stats.vttl.be/data.php?idsite=2" style="border:0" alt=""/></p></noscript></td></tr></table></div></body></html>

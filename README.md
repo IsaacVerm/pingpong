@@ -18,3 +18,7 @@ Data is te vinden op [http://competitie.vttl.be](competitie.vttl.be). Per seizoe
 ## Ledenlijst
 
 Eerst werd de ledenlijst opgehaald. Data voor TCC Maldegem is beschikbaar van seizoen 2006-2007 tot 2016-2017.
+
+## Resultaten leden
+
+Seizoen verwijst altijd naar het jaar waarin het seizoen gestart is (vb. 2004-2005 wordt 2004).

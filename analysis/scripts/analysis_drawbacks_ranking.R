@@ -3,6 +3,7 @@
 library(plyr)
 library(dplyr)
 library(ggplot2)
+library(stringr)
 
 ### load data
 
@@ -57,18 +58,25 @@ plot(graph_bias_higher_categories)
 
 max(abs(results$ELO_verschil), na.rm = TRUE)
 
-## calculate expected scores
+## calculate expected scores using ELO formula
 
 results$verwachte_score <- 1/(1 + 10^((results$ELO_tegenstander - results$ELO)/400))
 
 ## divide in ELO groups
 
+# add groups
+
 results <- arrange(results, ELO_verschil)
 
-nr_groups <- 20
+nr_groups <- 50
 results$ELO_groep <- factor(rep(1:nr_groups, each = nrow(results)/nr_groups))
 
-results$ELO_groep[(nrow(results) - 100):nrow(results)] <- nr_groups 
+# last group is a little larger since division rarely results in integer
+
+overflow <- as.numeric(str_extract(string = names(warnings()),
+                                   pattern = "\\d+(?= items\\))"))
+
+results$ELO_groep[(nrow(results) - overflow):nrow(results)] <- nr_groups 
 
 ## calculate difference average expected score / average victory percentage by ELO group
 
@@ -78,20 +86,39 @@ results$resultaat_num <- as.numeric(as.character(mapvalues(x = results$resultaat
 
 results <- mutate(results, ELO_voorspelling_verschil = abs(verwachte_score - resultaat_num))
 
-results$ELO_correct <- 1
-results$ELO_correct[results$ELO_voorspelling_verschil >= 0.5] <- 0
-
 expected_score_difference <- results %>%
                                   group_by(ELO_groep) %>%
-                                      summarize(avg = mean(ELO_correct),
-                                                n = n())
+                                      summarize(incorrecte_voorspelling = round(mean(ELO_voorspelling_verschil > 0.5) * 100,
+                                                                                digits = 0),
+                                                ELO_min = min(ELO_verschil),
+                                                ELO_max = max(ELO_verschil)) %>%
+                                                    mutate(ELO_range = paste0("[",
+                                                                              ELO_min,
+                                                                              ";",
+                                                                              ELO_max,
+                                                                              "]"))
+expected_score_difference$ELO_range <- factor(expected_score_difference$ELO_range,
+                                              levels = expected_score_difference$ELO_range)
 
 ## display difference average expected score / average victory percentage
 
 graph_expected_score_difference <- ggplot(data = expected_score_difference,
-                                          aes(x = ELO_groep, y = avg)) +
-                                   geom_bar(stat = "identity")
+                                          aes(x = ELO_range, y = incorrecte_voorspelling)) +
+                                   geom_line(group = 1) + 
+                                   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+                                   labs(title = "Hoe goed zijn de ELO voorspellingen?",
+                                        x = "ELO groep",
+                                        y = "Percentage incorrecte voorspellingen per groep")
 
 plot(graph_expected_score_difference)
                               
-### save objects
+### save graphs
+
+graphs <- grep(pattern = "graph_", x = ls(), value = TRUE)
+
+save_path <- "C:\\Users\\Felix Timmermans\\Desktop\\pingpong\\analysis\\output\\analysis_drawbacks_ranking\\"
+
+mapply(ggsave, paste0(save_path, graphs,".png"), mget(graphs))
+
+
+

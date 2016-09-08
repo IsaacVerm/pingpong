@@ -35,18 +35,26 @@ Er zijn 2 methodes om het verschil in kwaliteit met de tegenstander te meten: EL
 
 Aan het gebruik van de klassering zijn twee grote nadelen verbonden:
 
-* er is een zekere variatie in kwaliteit binnen de klassering zelf
 * er is een bias naar hogere klasseringen toe
+* er is een zekere variatie in kwaliteit binnen de klassering zelf
 
 Het eerste nadeel wordt geïllustreerd door de volgende grafiek:
 
+![](https://www.dropbox.com/s/fipdgiod9gvye30/graph_bias_higher_categories.png?dl=1)
 
+Een speler met klassering NG kan geen opmerkelijke nederlagen lijden aangezien er geen klassement lager bestaat, een speler met klassering C0 kan geen opmerkelijke overwinningen boeken aangezien er geen klassement hoger bestaat.
 
-Het grote nadeel van een methode die gebruikt maakt van de klassering is dat lagere klassementen per definitie minder opmerkelijke nederlagen zullen kunnen leiden (aangezien ze zich al onderin het klassement bevinden).
+Het tweede nadeel is dat kwaliteitsverschillen binnen eenzelfde klassement bestaan, zelfs groot kunnen zijn:
+
+![](https://www.dropbox.com/s/r1rv3glv5t3pumg/graph_elo_within_category.png?dl=1)
+
+We stellen bijvoorbeeld vast dat een speler met klassement D4 een ELO kan hebben tussen 1000 en 1400 wat toch een aanzienlijk verschil uitmaakt. Op basis van de vorige twee nadelen blijkt de klassering geen goede indicatie van het kwaliteitsverschil tussen twee spelers.
 
 ### Nadelen ELO
 
-Komen de winstkansen voorspeld door de ELO overeen met de werkelijke winstkansen?
+De hoop is dus dat het ELO-systeem beter de kwaliteitsverschillen tussen spelers reflecteert.
 
+![](https://www.dropbox.com/s/cyob0gl9ex59o77/graph_expected_score_difference.png?dl=1)
 
+Per definitie zal bij spelers met dezelfde ELO-waardes het altijd kop of punt zijn waardoor de grafiek piekt bij 50%. Wat tegenvalt is dat het percentage incorrecte voorspellingen slechts traag daalt naarmate het verschil tussen de spelers groter wordt. ELO is dus niet perfect, maar de weg van het minste kwaad.
 

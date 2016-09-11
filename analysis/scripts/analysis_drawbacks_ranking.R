@@ -58,10 +58,6 @@ plot(graph_bias_higher_categories)
 
 max(abs(results$ELO_verschil), na.rm = TRUE)
 
-## calculate expected scores using ELO formula
-
-results$verwachte_score <- 1/(1 + 10^((results$ELO_tegenstander - results$ELO)/400))
-
 ## divide in ELO groups
 
 # add groups
@@ -79,12 +75,6 @@ overflow <- as.numeric(str_extract(string = names(warnings()),
 results$ELO_groep[(nrow(results) - overflow):nrow(results)] <- nr_groups 
 
 ## calculate difference average expected score / average victory percentage by ELO group
-
-results$resultaat_num <- as.numeric(as.character(mapvalues(x = results$resultaat,
-                                                           from = c("V","W"),
-                                                           to = 0:1)))
-
-results <- mutate(results, ELO_voorspelling_verschil = abs(verwachte_score - resultaat_num))
 
 expected_score_difference <- results %>%
                                   group_by(ELO_groep) %>%

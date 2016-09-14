@@ -6,10 +6,9 @@ De pingpongprestaties van Jeroen Van Der Hooft analyseren, zowel doorheen de tij
 
 - Hoe is de rating van JvdH geëvolueerd?
 - Wat waren de meest opmerkelijke overwinningen/nederlagen?
-- Is de evolutie van de rating van JvdH een typisch patroon?
 - Heeft JvdH zijn zwarte beesten?
 
-De evolutie van de rating wordt zowel binnen de club als over alle clubs heen bekeken. Zwarte beesten zijn tegenstanders waartegen meermaals werd verloren.
+Bij de evolutie van de rating van JvdH wordt ook nagegaan hoe deze evolutie zich verhoudt tot de evolutie van de ranking van andere spelers in TCC Maldegem. Zwarte beesten zijn tegenstanders waartegen meermaals werd verloren.
 
 # Data
 
@@ -24,6 +23,10 @@ Eerst werd de ledenlijst opgehaald. Data voor TCC Maldegem is beschikbaar van se
 Seizoen verwijst altijd naar het jaar waarin het seizoen gestart is (vb. 2004-2005 wordt 2004).
 
 # Analyse
+
+# Evolutie rating JvdH
+
+De volgende grafiek geeft aan hoe de rating van JvdH en enkele leden van de club geëvolueerd is. Enkel spelers die begonnen zijn in de categorie "Cadetten" en minstens 5 opeenvolgende jaren van data hebben werden in beschouwing genomen om de vergelijking van de prestaties te vergemakkelijken.
 
 ## Opmerkelijke overwinningen/nederlagen
 

@@ -50,6 +50,14 @@ results <- mutate(results, ELO_voorspelling_verschil = abs(verwachte_score - res
 
 results <- mutate(results, ELO_voorspelling_verschil_neg = resultaat_num - verwachte_score)
 
+## variable taking into account ELO funky gaps
+
+funky_gaps <- results %>%
+                  group_by(naam, seizoen) %>%
+                      summarise(min = min(ELO, na.rm = TRUE),
+                                max = max(ELO, na.rm = TRUE))
+
+
 ### save data
 
 save_path <- "C:\\Users\\Felix Timmermans\\Desktop\\pingpong\\data\\datasets\\tccmaldegem_ledenresultaten\\"
